@@ -2,7 +2,7 @@
  * Theme name:  PDPLibre FSE
  * Description: Neve FSE child theme for pdplibre.org
  * Author:      Guillaume AGNIERAY
- * Version:     1.0.0
+ * Version:     1.0.1
  * License:     GNU General Public License v3 or later
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: pdplibre-fse
@@ -63,4 +63,35 @@ html {
 /* Customize Mosparo container width */
 .wp-theme-neve-fse .mosparo__container {
   max-width: none;
+}
+
+/* Customize Contact Form 7 fields */
+.wpcf7-acceptance .wpcf7-list-item {
+  margin-left: 0;
+  font-size: .85em;
+}
+
+/* Customize Mautic javascript embedded form */
+.wp-theme-neve-fse .mauticform_wrapper {
+  max-width: 740px;
+}
+.wp-theme-neve-fse .mauticform-label {
+  font-weight: 300;
+}
+.wp-theme-neve-fse .mauticform-checkboxgrp-label {
+  font-weight: 300;
+  font-size: .85em;
+}
+.wp-theme-neve-fse .mauticform-button,
+.wp-theme-neve-fse .mauticform-button-wrapper .mauticform-button.btn-ghost,
+.wp-theme-neve-fse .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-ghost {
+  background: var(--wp--preset--color--ti-accent);
+  border: 0;
+  border-color: var(--wp--preset--color--ti-accent);
+  border-radius: 3px;
+  box-shadow: none;
+  color: var(--wp--preset--color--ti-fg-alt);
+  font-size: var(--wp--preset--font-size--normal);
+  font-weight: 600;
+  padding: 16px 32px;
 }
