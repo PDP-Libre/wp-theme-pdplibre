@@ -39,6 +39,15 @@ if ( ! function_exists( 'pdplibre_fse_styles' ) ) {
 add_action( 'wp_enqueue_scripts', 'pdplibre_fse_styles' );
 
 /**
+ * Add classes to body
+ */
+function pdplibre_fse_body_classes($classes) {
+    $classes[] = 'nojs';
+    return $classes;
+}
+add_filter('body_class', 'pdplibre_fse_body_classes');
+
+/**
  * Head tag customizations
  */
  function pdplibre_fse_wp_head() {

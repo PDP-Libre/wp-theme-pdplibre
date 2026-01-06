@@ -15,14 +15,14 @@ html {
 }
 
 /* Fixed header on scroll */
-#fixed-header {
+.js-enabled #fixed-header {
   position: fixed;
   width: 100vw;
   max-width: unset;
   left: 0;
   z-index: 100;
 }
-.page-scrolled #fixed-header::before {
+.js-enabled.page-scrolled #fixed-header::before {
   content: '';
   position: absolute;
   top: 0;
@@ -94,4 +94,14 @@ html {
   font-size: var(--wp--preset--font-size--normal);
   font-weight: 600;
   padding: 16px 32px;
+}
+
+/* Restore animated blocks visibility when js is disabled */
+.nojs .animated:not(.o-anim-ready) {
+  visibility: visible;
+}
+
+/* Hide newsletter subscription iframe when js is enabled */
+.js-enabled .newsletter-iframe {
+  display: none;
 }
