@@ -8,9 +8,18 @@ function pageScrolled() {
     }
 }
 
+function replaceBodyClass(oldClass, newClass) {
+    const body = document.body;
+    if (body.classList.contains(oldClass)) {
+        body.classList.remove(oldClass);
+        body.classList.add(newClass);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     document.addEventListener( 'wpcf7mailsent', function() {
         location = '/merci/';
     }, false );
     window.addEventListener( 'scroll', pageScrolled );
+    replaceBodyClass('nojs', 'js-enabled');
 });
