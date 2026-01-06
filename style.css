@@ -2,7 +2,7 @@
  * Theme name:  PDPLibre FSE
  * Description: Neve FSE child theme for pdplibre.org
  * Author:      Guillaume AGNIERAY
- * Version:     1.0.1
+ * Version:     1.0.2
  * License:     GNU General Public License v3 or later
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: pdplibre-fse
@@ -54,9 +54,13 @@ html {
 }
 
 /* Improve main menu accessibility in footer on mobile */
-@media (max-width: 599px) {
-  footer.wp-block-template-part nav.wp-block-navigation.is-vertical li {
-    margin: 10px 0;
+footer nav.wp-block-navigation.is-vertical li {
+  margin: 10px 0;
+}
+@media (max-width: 781px) {
+  footer nav.wp-block-navigation.items-justified-right.is-vertical,
+  footer nav.wp-block-navigation.items-justified-right.is-vertical ul {
+    align-items: flex-start;
   }
 }
 

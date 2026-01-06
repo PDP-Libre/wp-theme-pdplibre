@@ -67,6 +67,29 @@ function pdplibre_fse_get_custom_scroll_offset() {
 add_filter( 'fast_smooth_scroll_offset', 'pdplibre_fse_get_custom_scroll_offset' );
 
 /**
+ * Inject font-display:swap to custom font
+ */
+function pdplibre_fse_font_display_swap($html) {
+    $html = str_replace('font-family:"Open Sans";', 'font-family:"Open Sans";font-display:swap;', $html);
+    return $html;
+}
+function pdplibre_fse_font_display_swap_capture_html() {
+    ob_start('pdplibre_fse_font_display_swap');
+}
+add_action('init', 'pdplibre_fse_font_display_swap_capture_html', 1);
+
+/**
+ * Exclude pages from search
+ */
+function pdplibre_fse_exclude_pages_from_search($query) {
+    if ($query->is_search && !is_admin()) {
+        $query->set('post__not_in', [57, 150, 156]); // Confirmation pages
+    }
+    return $query;
+}
+add_filter('pre_get_posts', 'pdplibre_fse_exclude_pages_from_search');
+
+/**
  * Ajouts "blocages" TIM
  */
 
