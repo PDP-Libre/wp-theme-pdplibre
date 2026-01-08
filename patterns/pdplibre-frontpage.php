@@ -44,7 +44,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontSize":"medium"} -->
-<h3 class="wp-block-heading has-text-align-center has-medium-font-size">Fin portail public</h3>
+<h3 class="wp-block-heading has-text-align-center has-medium-font-size">Fin du portail public</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -128,7 +128,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">PDPLibre.org est une association à but non lucratif dédiée à rendre la facturation électronique accessible à tous. Nous croyons que le droit de recevoir et d’émettre des factures est essentiel pour les entreprises, sans dépendre du bon vouloir d’un tiers privé.</p>
+<p class="has-text-align-center"><a href="/statuts-de-lassociation/">PDPLibre.org est une association</a> à but non lucratif dédiée à rendre la facturation électronique accessible à tous. Nous croyons que le droit de recevoir et d’émettre des factures est essentiel pour les entreprises, sans dépendre du bon vouloir d’un tiers privé.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
