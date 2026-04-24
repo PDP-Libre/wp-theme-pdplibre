@@ -158,7 +158,7 @@ add_filter( 'action_scheduler_retention_period', 'pdplibre_fse_action_scheduler_
 /**
  * fin "blocages" TIM...
  */
-**
+/**
  * 20260417 TIM : ajout infobulle sur "réseaux sociaux" du menu
  */
 add_filter('render_block', 'ajouter_title_aux_liens_sociaux', 10, 2);
