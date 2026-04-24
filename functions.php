@@ -176,18 +176,18 @@ function ajouter_title_aux_liens_sociaux($block_content, $block) {
             'peertube' => 'Regardez nos vidéos',
             'mastodon' => 'Suivez-nous sur Mastodon',
             'linkedin' => 'Suivez-nous sur LinkedIn',
-            'feed'     => 'Abonnez-vous à notre flux RSS'
+            'feed'     => 'Flux RSS'
         ];
 
         $title = $titles[$service] ?? 'Lien social';
 
-        // Ajoute title et aria-label sur balises <a>
-        $block_content = preg_replace(
-            '/<a\b(?![^>]*\btitle=)(?![^>]*\baria-label=)/',
-            '<a title="' . esc_attr($title) . '" aria-label="' . esc_attr($title) . '"',
-            $block_content,
-            1
-        );
+        // Aria-label sur la balise <a>
+$block_content = preg_replace(
+    '/<a\b(?![^>]*\baria-label=)/',
+    '<a aria-label="' . esc_attr($title) . '"',
+    $block_content,
+    1
+);
     }
 
     return $block_content;
