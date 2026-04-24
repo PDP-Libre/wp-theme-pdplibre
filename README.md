@@ -2,7 +2,7 @@
 
 
 [![English](https://img.shields.io/badge/Readme-en-blue)](README.md)
-[![Français](https://img.shields.io/badge/Readme-en-blue)](README.fr-FR.md)
+[![Français](https://img.shields.io/badge/Readme-fr-blue)](README.fr-FR.md)
 
 ## How to contribute
 
