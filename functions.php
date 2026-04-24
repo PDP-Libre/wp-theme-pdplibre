@@ -159,32 +159,36 @@ add_filter( 'action_scheduler_retention_period', 'pdplibre_fse_action_scheduler_
  * fin "blocages" TIM...
  */
 /**
- * 20260417 TIM : ajout infobulle sur "réseaux sociaux" du menu
+ * 20260424 TIM : ajout infobulle et aria-label sur "réseaux sociaux" du menu
  */
 add_filter('render_block', 'ajouter_title_aux_liens_sociaux', 10, 2);
 
 function ajouter_title_aux_liens_sociaux($block_content, $block) {
-    // pour le bloc "social-links" 
-    if ($block['blockName'] === 'core/social-links') {
-        //  ajouter un title aux liens sociaux pour info bulle
-        $block_content = preg_replace_callback(
-            '/<li class="wp-social-link (.*?)"><a href="(.*?)"/',
-            function($matches) {
-                $service = $matches[1];
-                $url = $matches[2];
-                // Définition du "title" en fonction du service
-                $titles = [
-                    'forgejo' => 'rejoindre les développeurs',
-                    'peertube' => 'regardez nos vidéos',
-                    'mastodon' => 'suivez-nous sur Mastodon',
-                    'linkedin' => 'suivez-nous sur LinkedIn',
-                    'feed' => 'abonnez-vous à notre flux RSS'
-                ];
-                $title = isset($titles[$service]) ? $titles[$service] : 'Lien social';
-                return '<li class="wp-social-link ' . $service . '"><a href="' . $url . '" title="' . esc_attr($title) . '"';
-            },
-            $block_content
+    if (
+        isset($block['blockName']) &&
+        $block['blockName'] === 'core/social-link' &&
+        isset($block['attrs']['service'])
+    ) {
+        $service = $block['attrs']['service'];
+
+        $titles = [
+            'forgejo'  => 'Rejoindre les développeurs',
+            'peertube' => 'Regardez nos vidéos',
+            'mastodon' => 'Suivez-nous sur Mastodon',
+            'linkedin' => 'Suivez-nous sur LinkedIn',
+            'feed'     => 'Abonnez-vous à notre flux RSS'
+        ];
+
+        $title = $titles[$service] ?? 'Lien social';
+
+        // Ajoute title et aria-label sur balises <a>
+        $block_content = preg_replace(
+            '/<a\b(?![^>]*\btitle=)(?![^>]*\baria-label=)/',
+            '<a title="' . esc_attr($title) . '" aria-label="' . esc_attr($title) . '"',
+            $block_content,
+            1
         );
     }
+
     return $block_content;
 }
