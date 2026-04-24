@@ -172,7 +172,7 @@ function ajouter_title_aux_liens_sociaux($block_content, $block) {
         $service = $block['attrs']['service'];
 
         $titles = [
-            'forgejo'  => 'Rejoindre les développeurs',
+            'forgejo'  => 'Le dépôt des développements',
             'peertube' => 'Regardez nos vidéos',
             'mastodon' => 'Suivez-nous sur Mastodon',
             'linkedin' => 'Suivez-nous sur LinkedIn',
