@@ -3,6 +3,6 @@
     { "outil": "aucun", "taille": "Micro-entrepreneur", "entrep": "Opendsi", "sitew": "https://www.opendsi.fr" },
     { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "Opendsi", "sitew": "B-S-003" },
     { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "Webelys", "sitew": "https://www.webelys.com" },
-    { "outil": "aucun", "taille": "Micro-entrepreneur", "entrep": "Superindep", "sitew": "https://www.webelys.co" },
-    { "outil": "aucun", "taille": "artistes-auteurs", "entrep": "Superindep", "sitew": "https://www.webelys.co" }
+    { "outil": "aucun", "taille": "Micro-entrepreneur", "entrep": "Superindep", "sitew": "https://www.superindep.fr" },
+    { "outil": "aucun", "taille": "artistes-auteurs", "entrep": "Superindep", "sitew": "https://www.superindep.fr" }
         ]
