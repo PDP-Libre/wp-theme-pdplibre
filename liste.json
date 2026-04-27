@@ -1,8 +1,7 @@
 [
-    { "outil": "Dolibarr ERP/CRM", "taille": "Micro-entrepreneur", "entrep": "ATM-CONSULTING", "sitew": "https://www.atm-consulting.fr" },
-    { "outil": "aucun", "taille": "Micro-entrepreneur", "entrep": "Opendsi", "sitew": "https://www.opendsi.fr" },
+    { "outil": "Dolibarr ERP/CRM", "taille": "independant", "entrep": "ATM-CONSULTING", "sitew": "https://www.atm-consulting.fr" },
+    { "outil": "aucun", "taille": "independant", "entrep": "Opendsi", "sitew": "https://www.opendsi.fr" },
     { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "Opendsi", "sitew": "https://www.opendsi.fr" },
     { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "Webelys", "sitew": "https://www.webelys.com" },
-    { "outil": "aucun", "taille": "Micro-entrepreneur", "entrep": "Superindep", "sitew": "https://www.superindep.fr" },
-    { "outil": "aucun", "taille": "artistes-auteurs", "entrep": "Superindep", "sitew": "https://www.superindep.fr" }
+    { "outil": "aucun", "taille": "independant", "entrep": "Superindep", "sitew": "https://www.superindep.fr" }
         ]
