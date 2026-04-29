@@ -8,5 +8,5 @@
   { "outil": "Dolibarr ERP/CRM", "taille": "independant", "entrep": "NET LOGIC", "sitew": "https://netlogic.fr" },
   { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "NET LOGIC", "sitew": "https://netlogic.fr" },
   { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "NET LOGIC", "sitew": "https://netlogic.fr" },
-  { "outil": "Dolibarr ERP/CRM", "taille": "ETI | GE", "entrep": "NET LOGIC", "sitew": "<a href='https://netlogic.fr target=_blank'>https://netlogic.fr</a>" }
+  { "outil": "Dolibarr ERP/CRM", "taille": "ETI | GE", "entrep": "NET LOGIC", "sitew": "https://netlogic.fr" }
          ]
