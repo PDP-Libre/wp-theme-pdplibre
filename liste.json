@@ -4,6 +4,8 @@
   { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "Opendsi", "sitew": "<a href='https://www.opendsi.fr' target='_blank'>https://www.opendsi.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "Webelys", "sitew": "<a href='https://www.webelys.com' target='_blank'>https://www.webelys.com</a>" },
   { "outil": "aucun", "taille": "independant", "entrep": "Superindep", "sitew": "<a href='https://www.superindep.fr' target='_blank'>https://www.superindep.fr</a>" },
+  { "outil": "aucun", "taille": "independant", "entrep": "BD2DB", "sitew": "<a href='https://factur-e.fr' target='_blank'>https://factur-e.fr</a>" },
+  { "outil": "aucun", "taille": "TPE", "entrep": "BD2DB", "sitew": "<a href='https://factur-e.fr' target='_blank'>https://factur-e.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "independant", "entrep": "NET LOGIC", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "NET LOGIC", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "NET LOGIC", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" },
