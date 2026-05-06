@@ -10,4 +10,7 @@
   { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "NET LOGIC", "mail": "", "tel": "", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "NET LOGIC", "mail": "", "tel": "", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" },
   { "outil": "Dolibarr ERP/CRM", "taille": "ETI | GE", "entrep": "NET LOGIC", "mail": "", "tel": "", "sitew": "<a href='https://netlogic.fr' target='_blank'>https://netlogic.fr</a>" }
-         ]
+  { "outil": "Dolibarr ERP/CRM", "taille": "TPE", "entrep": "BNB Solutions Digitales", "mail": "<a href="mailto:contact@bnb.re">contact@bnb.re</a>", "tel": "", "sitew": "<a href='https://bnb.re' target='_blank'>https://bnb.re</a>" }
+  { "outil": "Dolibarr ERP/CRM", "taille": "PME", "entrep": "BNB Solutions Digitales", "mail": "<a href="mailto:contact@bnb.re">contact@bnb.re</a>", "tel": "", "sitew": "<a href='https://bnb.re' target='_blank'>https://bnb.re</a>" }
+  { "outil": "Dolibarr ERP/CRM", "taille": "independant", "entrep": "BNB Solutions Digitales", "mail": "<a href="mailto:contact@bnb.re">contact@bnb.re</a>", "tel": "", "sitew": "<a href='https://bnb.re' target='_blank'>https://bnb.re</a>" }
+        ]
