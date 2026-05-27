@@ -192,3 +192,17 @@ $block_content = preg_replace(
 
     return $block_content;
 }
+// Ajouter l'image à la une dans le flux RSS
+add_filter('the_excerpt_rss', 'wpm_rss_post_thumbnail');
+add_filter('the_content_feed', 'wpm_rss_post_thumbnail');
+
+function wpm_rss_post_thumbnail($content) {
+	global $post;
+	$content ='';
+
+	if(has_post_thumbnail($post->ID)) {
+		$content = '<p>' . get_the_post_thumbnail($post->ID , 'full') . '</p>' . get_the_excerpt();
+	}
+	return $content;
+}
+?>
