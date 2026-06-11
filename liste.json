@@ -53,7 +53,7 @@
         "entrep": "ABCOM  RESEAUX",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
         "tel": "",
-        "sitew": "<a href=\"https://abcomreseaux.fr\" target=\"_blank\">https://abcomreseaux.fr</a>"
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>"
     },
     {
         "outil": "Dolibarr",
@@ -61,7 +61,7 @@
         "entrep": "ABCOM  RESEAUX",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
         "tel": "",
-        "sitew": "<a href=\"https://abcomreseaux.fr\" target=\"_blank\">https://abcomreseaux.fr</a>"
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>"
     },
     {
         "outil": "Dolibarr",
@@ -69,7 +69,7 @@
         "entrep": "ABCOM  RESEAUX",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
         "tel": "",
-        "sitew": "<a href=\"https://abcomreseaux.fr\" target=\"_blank\">https://abcomreseaux.fr</a>"
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>"
     },
     {
         "outil": "Dolibarr",
@@ -115,7 +115,7 @@
         "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "BD2DB",
-        "mail": "",
+        "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
         "tel": "",
         "sitew": "<a href=\"https://factur-e.fr\" target=\"_blank\">https://factur-e.fr</a>"
     },
@@ -123,7 +123,7 @@
         "outil": "Aucun",
         "taille": "TPE",
         "entrep": "BD2DB",
-        "mail": "",
+        "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
         "tel": "",
         "sitew": "<a href=\"https://factur-e.fr\" target=\"_blank\">https://factur-e.fr</a>"
     },
