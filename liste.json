@@ -28,7 +28,7 @@
         "taille": "INDEPENDANT",
         "entrep": "HELIUM TECHNOLOGIES",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:590860155.0\">590860155.0</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
         "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>"
     },
     {
@@ -36,7 +36,7 @@
         "taille": "TPE",
         "entrep": "HELIUM TECHNOLOGIES",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:590860155.0\">590860155.0</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
         "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>"
     },
     {
@@ -44,7 +44,7 @@
         "taille": "PME",
         "entrep": "HELIUM TECHNOLOGIES",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:590860155.0\">590860155.0</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
         "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>"
     },
     {
@@ -76,7 +76,7 @@
         "taille": "TPE",
         "entrep": "SCOPEN",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
-        "tel": "<a href=\"tel:978082299.0\">978082299.0</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
         "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>"
     },
     {
@@ -84,7 +84,7 @@
         "taille": "PME",
         "entrep": "SCOPEN",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
-        "tel": "<a href=\"tel:978082299.0\">978082299.0</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
         "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>"
     },
     {
@@ -92,7 +92,7 @@
         "taille": "INDEPENDANT",
         "entrep": "EUREKA!",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
-        "tel": "<a href=\"tel:682465563.0\">682465563.0</a>",
+        "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
         "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>"
     },
     {
@@ -100,7 +100,7 @@
         "taille": "TPE",
         "entrep": "EUREKA!",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
-        "tel": "<a href=\"tel:682465563.0\">682465563.0</a>",
+        "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
         "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>"
     },
     {
@@ -124,7 +124,7 @@
         "taille": "TPE",
         "entrep": "VOLD France",
         "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
-        "tel": "<a href=\"tel:970161943.0\">970161943.0</a>",
+        "tel": "<a href=\"tel:0970161943\">09 70 16 19 43</a>",
         "sitew": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">https://www.voldgroup.com/</a>"
     },
     {
@@ -132,7 +132,55 @@
         "taille": "PME",
         "entrep": "VOLD France",
         "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
-        "tel": "<a href=\"tel:970161943.0\">970161943.0</a>",
+        "tel": "<a href=\"tel:0970161943\">09 70 16 19 43</a>",
         "sitew": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">https://www.voldgroup.com/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": ""
     }
 ]
