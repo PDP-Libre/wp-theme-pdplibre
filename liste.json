@@ -88,6 +88,14 @@
         "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>"
     },
     {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "SCOPEN",
+        "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
+        "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>"
+    },
+    {
         "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "EUREKA!",
@@ -158,6 +166,22 @@
         "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
         "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
         "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "LAVA RUN",
+        "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
+        "tel": "",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "LAVA RUN",
+        "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
+        "tel": "",
+        "sitew": ""
     },
     {
         "outil": "Dolibarr",
