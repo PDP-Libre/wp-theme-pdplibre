@@ -170,6 +170,30 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
         "tel": "",
