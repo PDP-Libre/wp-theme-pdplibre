@@ -230,5 +230,21 @@
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
         "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
         "sitew": ""
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
     }
 ]
