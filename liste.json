@@ -74,6 +74,30 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
         "entrep": "ABCOM  RESEAUX",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
         "tel": "",
@@ -171,7 +195,7 @@
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
         "entrep": "TECHNI PC",
-        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
         "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
         "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
     },
@@ -179,7 +203,7 @@
         "outil": "Dolibarr",
         "taille": "TPE",
         "entrep": "TECHNI PC",
-        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
         "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
         "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
     },
@@ -187,7 +211,7 @@
         "outil": "Dolibarr",
         "taille": "PME",
         "entrep": "TECHNI PC",
-        "mail": "<a href=\"mailto:p.cappelli@technipc.fr\">p.cappelli@technipc.fr</a>",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
         "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
         "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>"
     },
@@ -258,33 +282,7 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
-        "entrep": "ELICLA Numerique",
+        "entrep": "ELICLA Numerique ",
         "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
         "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
-    },
-    {
-        "outil": "Dolibarr",
-        "taille": "TPE",
-        "entrep": "ELICLA Numerique",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
-    },
-    {
-        "outil": "Aucun",
-        "taille": "INDEPENDANT",
-        "entrep": "A3526",
-        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
-        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
-        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
-    },
-    {
-        "outil": "Aucun",
-        "taille": "TPE",
-        "entrep": "A3526",
-        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
-        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
-        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
-    }
-]
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.el
