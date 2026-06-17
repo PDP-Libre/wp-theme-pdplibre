@@ -285,4 +285,54 @@
         "entrep": "ELICLA Numerique ",
         "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
         "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.el
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ELICLA Numerique ",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>"
+    }
+]
