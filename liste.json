@@ -1,6 +1,30 @@
 [
     {
         "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
         "taille": "INDEPENDANT",
         "entrep": "WEBELYS",
         "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
@@ -230,6 +254,22 @@
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
         "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
         "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ELICLA NumÃ©rique",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ELICLA NumÃ©rique",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
     },
     {
         "outil": "Aucun",
