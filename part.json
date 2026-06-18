@@ -1,0 +1,677 @@
+[
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "OPEN-DSI",
+        "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
+        "tel": "<a href=\"tel:0482539476\">04 82 53 94 76</a>",
+        "sitew": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">https://www.opendsi.fr/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "WEBELYS",
+        "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.webelys.com\" target=\"_blank\">https://www.webelys.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "WEBELYS",
+        "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.webelys.com\" target=\"_blank\">https://www.webelys.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "WEBELYS",
+        "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.webelys.com\" target=\"_blank\">https://www.webelys.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NET LOGIC",
+        "mail": "<a href=\"mailto:info@netlogic.fr\">info@netlogic.fr</a>",
+        "tel": "<a href=\"tel:0143059237\">01 43 05 92 37</a>",
+        "sitew": "<a href=\"https://www.netlogic.fr\" target=\"_blank\">https://www.netlogic.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NET LOGIC",
+        "mail": "<a href=\"mailto:info@netlogic.fr\">info@netlogic.fr</a>",
+        "tel": "<a href=\"tel:0143059237\">01 43 05 92 37</a>",
+        "sitew": "<a href=\"https://www.netlogic.fr\" target=\"_blank\">https://www.netlogic.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "NET LOGIC",
+        "mail": "<a href=\"mailto:info@netlogic.fr\">info@netlogic.fr</a>",
+        "tel": "<a href=\"tel:0143059237\">01 43 05 92 37</a>",
+        "sitew": "<a href=\"https://www.netlogic.fr\" target=\"_blank\">https://www.netlogic.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "IOUSTON",
+        "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
+        "tel": "<a href=\"tel:0674835228\">06 74 83 52 28</a>",
+        "sitew": "<a href=\"https://www.iouston.com\" target=\"_blank\">https://www.iouston.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "IOUSTON",
+        "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
+        "tel": "<a href=\"tel:0674835228\">06 74 83 52 28</a>",
+        "sitew": "<a href=\"https://www.iouston.com\" target=\"_blank\">https://www.iouston.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "IOUSTON",
+        "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
+        "tel": "<a href=\"tel:0674835228\">06 74 83 52 28</a>",
+        "sitew": "<a href=\"https://www.iouston.com\" target=\"_blank\">https://www.iouston.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "IOUSTON",
+        "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
+        "tel": "<a href=\"tel:0674835228\">06 74 83 52 28</a>",
+        "sitew": "<a href=\"https://www.iouston.com\" target=\"_blank\">https://www.iouston.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "BNB Solutions Digitales",
+        "mail": "<a href=\"mailto:contact@bnb.re\">contact@bnb.re</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://bnb.re\" target=\"_blank\">https://bnb.re</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "BNB Solutions Digitales",
+        "mail": "<a href=\"mailto:contact@bnb.re\">contact@bnb.re</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://bnb.re\" target=\"_blank\">https://bnb.re</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "BNB Solutions Digitales",
+        "mail": "<a href=\"mailto:contact@bnb.re\">contact@bnb.re</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://bnb.re\" target=\"_blank\">https://bnb.re</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "ETI  GE",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "HELIUM TECHNOLOGIES",
+        "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "HELIUM TECHNOLOGIES",
+        "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "HELIUM TECHNOLOGIES",
+        "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
+        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "sitew": "<a href=\"https://helium-technologies.com\" target=\"_blank\">https://helium-technologies.com</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NIIT SAS",
+        "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
+        "tel": "<a href=\"tel:0619816329\">06 19 81 63 29</a>",
+        "sitew": "<a href=\"https://www.niit.fr\" target=\"_blank\">https://www.niit.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "X POITOU NETWORK",
+        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
+        "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
+        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "X POITOU NETWORK",
+        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
+        "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
+        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "X POITOU NETWORK",
+        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
+        "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
+        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ABCOM  RESEAUX",
+        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ABCOM  RESEAUX",
+        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ABCOM  RESEAUX",
+        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">https://abcomreseaux.com/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "SARL KARIFLOCHA",
+        "mail": "<a href=\"mailto:contact@bellemeinformatique.fr\">contact@bellemeinformatique.fr</a>",
+        "tel": "<a href=\"tel:0233259520\">02 33 25 95 20</a>",
+        "sitew": "<a href=\"https://bellemeinformatique.fr/\" target=\"_blank\">https://bellemeinformatique.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "SARL KARIFLOCHA",
+        "mail": "<a href=\"mailto:contact@bellemeinformatique.fr\">contact@bellemeinformatique.fr</a>",
+        "tel": "<a href=\"tel:0233259520\">02 33 25 95 20</a>",
+        "sitew": "<a href=\"https://bellemeinformatique.fr/\" target=\"_blank\">https://bellemeinformatique.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "SARL KARIFLOCHA",
+        "mail": "<a href=\"mailto:contact@bellemeinformatique.fr\">contact@bellemeinformatique.fr</a>",
+        "tel": "<a href=\"tel:0233259520\">02 33 25 95 20</a>",
+        "sitew": "<a href=\"https://bellemeinformatique.fr/\" target=\"_blank\">https://bellemeinformatique.fr/</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "SCOPEN",
+        "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
+        "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "SCOPEN",
+        "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
+        "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "SCOPEN",
+        "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
+        "tel": "<a href=\"tel:0978082299\">09 78 08 22 99</a>",
+        "sitew": "<a href=\"https://www.scopen.fr\" target=\"_blank\">https://www.scopen.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "EURÊKA!",
+        "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
+        "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
+        "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "EURÊKA!",
+        "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
+        "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
+        "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>",
+        "dp": "P"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "BD2DB",
+        "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://factur-e.fr\" target=\"_blank\">https://factur-e.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "BD2DB",
+        "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://factur-e.fr\" target=\"_blank\">https://factur-e.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "VOLD France",
+        "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
+        "tel": "<a href=\"tel:0970161943\">09 70 16 19 43</a>",
+        "sitew": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">https://www.voldgroup.com/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "VOLD France",
+        "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
+        "tel": "<a href=\"tel:0970161943\">09 70 16 19 43</a>",
+        "sitew": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">https://www.voldgroup.com/</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "TECHNI PC",
+        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
+        "tel": "<a href=\"tel:0363110177\">03 63 11 01 77</a>",
+        "sitew": "<a href=\"https://www.technipc.fr\" target=\"_blank\">https://www.technipc.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "Weedoo Digital",
+        "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
+        "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
+        "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "LAVA RUN",
+        "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
+        "tel": "",
+        "sitew": "",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "LAVA RUN",
+        "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
+        "tel": "",
+        "sitew": "",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": "",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": "",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "MONA",
+        "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
+        "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
+        "sitew": "",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ELICLA Numérique ",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ELICLA Numérique ",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "A3526",
+        "mail": "<a href=\"mailto:support@3526.fr\">support@3526.fr</a>",
+        "tel": "<a href=\"tel:0972118966\">09 72 11 89 66</a>",
+        "sitew": "<a href=\"https://a3526.fr\" target=\"_blank\">https://a3526.fr</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>",
+        "dp": "D"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "LOZANGE IT",
+        "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
+        "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
+        "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>",
+        "dp": "D"
+    }
+]
