@@ -98,6 +98,22 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
+        "entrep": "X POITOU NETWORK",
+        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
+        "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
+        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "X POITOU NETWORK",
+        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
+        "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
+        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
         "entrep": "ABCOM  RESEAUX",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
         "tel": "",
