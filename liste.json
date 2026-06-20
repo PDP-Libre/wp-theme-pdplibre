@@ -101,7 +101,7 @@
         "entrep": "X POITOU NETWORK",
         "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
         "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
-        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>"
+        "sitew": "<a href=\"https://xpoitou.fr\" target=\"_blank\">https://xpoitou.fr</a>"
     },
     {
         "outil": "Dolibarr",
@@ -109,7 +109,7 @@
         "entrep": "X POITOU NETWORK",
         "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
         "tel": "<a href=\"tel:0784968577\">07 84 96 85 77</a>",
-        "sitew": "<a href=\"https://www.xpoitou.fr\" target=\"_blank\">https://www.xpoitou.fr</a>"
+        "sitew": "<a href=\"https://xpoitou.fr\" target=\"_blank\">https://xpoitou.fr</a>"
     },
     {
         "outil": "Dolibarr",
@@ -294,22 +294,6 @@
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
         "tel": "<a href=\"tel:0612174992\">06 12 17 49 92</a>",
         "sitew": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "taille": "INDEPENDANT",
-        "entrep": "ELICLA Numérique ",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
-    },
-    {
-        "outil": "Dolibarr",
-        "taille": "TPE",
-        "entrep": "ELICLA Numérique ",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
     },
     {
         "outil": "Dolibarr",
