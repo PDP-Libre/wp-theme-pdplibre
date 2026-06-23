@@ -48,6 +48,22 @@
         "sitew": "<a href=\"https://www.webelys.com\" target=\"_blank\">https://www.webelys.com</a>"
     },
     {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NORD ERP CRM",
+        "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
+        "tel": "<a href=\"tel:0374099458\">03 74 09 94 58</a>",
+        "sitew": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">https://www.nord-erp-crm.fr/</a>"
+    },
+    {
         "outil": "Aucun",
         "taille": "TPE",
         "entrep": "DOKOS SAS",
@@ -358,5 +374,77 @@
         "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
         "tel": "",
         "sitew": ""
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "WEBLUMA",
+        "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
+        "tel": "<a href=\"tel:0257630603\">02 57 63 06 03</a>",
+        "sitew": "<a href=\"https://www.webluma.com\" target=\"_blank\">https://www.webluma.com</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "WEBLUMA",
+        "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
+        "tel": "<a href=\"tel:0257630603\">02 57 63 06 03</a>",
+        "sitew": "<a href=\"https://www.webluma.com\" target=\"_blank\">https://www.webluma.com</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "WEBLUMA",
+        "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
+        "tel": "<a href=\"tel:0257630603\">02 57 63 06 03</a>",
+        "sitew": "<a href=\"https://www.webluma.com\" target=\"_blank\">https://www.webluma.com</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "ETI  GE",
+        "entrep": "WEBLUMA",
+        "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
+        "tel": "<a href=\"tel:0257630603\">02 57 63 06 03</a>",
+        "sitew": "<a href=\"https://www.webluma.com\" target=\"_blank\">https://www.webluma.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "PRAGMA-TECH",
+        "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
+        "tel": "<a href=\"tel:0682952081\">06 82 95 20 81</a>",
+        "sitew": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">https://www.pragma-tech.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "PRAGMA-TECH",
+        "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
+        "tel": "<a href=\"tel:0682952081\">06 82 95 20 81</a>",
+        "sitew": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">https://www.pragma-tech.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "PRAGMA-TECH",
+        "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
+        "tel": "<a href=\"tel:0682952081\">06 82 95 20 81</a>",
+        "sitew": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">https://www.pragma-tech.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "IDFOR CONSULTING",
+        "mail": "<a href=\"mailto:eric.moleon@idfor.fr\">eric.moleon@idfor.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://idfor.fr\" target=\"_blank\">https://idfor.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "IDFOR CONSULTING",
+        "mail": "<a href=\"mailto:eric.moleon@idfor.fr\">eric.moleon@idfor.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://idfor.fr\" target=\"_blank\">https://idfor.fr</a>"
     }
 ]
