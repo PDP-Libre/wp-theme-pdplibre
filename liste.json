@@ -49,6 +49,22 @@
     },
     {
         "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "DOKOS SAS",
+        "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
+        "tel": "<a href=\"tel:0633475869\">06 33 47 58 69</a>",
+        "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>"
+    },
+    {
+        "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "HELIUM TECHNOLOGIES",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
@@ -318,5 +334,29 @@
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
         "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
         "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
+        "entrep": "WEMAY",
+        "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
+        "tel": "",
+        "sitew": ""
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "WEMAY",
+        "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
+        "tel": "",
+        "sitew": ""
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "WEMAY",
+        "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
+        "tel": "",
+        "sitew": ""
     }
 ]
