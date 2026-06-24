@@ -266,7 +266,7 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
-        "entrep": "Weedoo Digital",
+        "entrep": "WEEDOO Digital",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
         "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
         "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
@@ -274,7 +274,7 @@
     {
         "outil": "Dolibarr",
         "taille": "TPE",
-        "entrep": "Weedoo Digital",
+        "entrep": "WEEDOO Digital",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
         "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
         "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
@@ -282,7 +282,7 @@
     {
         "outil": "Dolibarr",
         "taille": "PME",
-        "entrep": "Weedoo Digital",
+        "entrep": "WEEDOO Digital",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
         "tel": "<a href=\"tel:0428770016\">04 28 77 00 16</a>",
         "sitew": "<a href=\"https://weedoo.digital\" target=\"_blank\">https://weedoo.digital</a>"
@@ -446,5 +446,53 @@
         "mail": "<a href=\"mailto:eric.moleon@idfor.fr\">eric.moleon@idfor.fr</a>",
         "tel": "",
         "sitew": "<a href=\"https://idfor.fr\" target=\"_blank\">https://idfor.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "PRESTALIDAIRE",
+        "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
+        "tel": "<a href=\"tel:0339270257\">03 39 27 02 57</a>",
+        "sitew": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">https://www.prestalidaire.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "PRESTALIDAIRE",
+        "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
+        "tel": "<a href=\"tel:0339270257\">03 39 27 02 57</a>",
+        "sitew": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">https://www.prestalidaire.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "PRESTALIDAIRE",
+        "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
+        "tel": "<a href=\"tel:0339270257\">03 39 27 02 57</a>",
+        "sitew": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">https://www.prestalidaire.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ACTIUM SI",
+        "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
+        "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
+        "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
     }
 ]
