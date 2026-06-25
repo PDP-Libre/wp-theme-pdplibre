@@ -197,7 +197,7 @@
         "entrep": "EURÊKA!",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
         "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
-        "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>"
+        "sitew": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">http://eureka.dhont.fr</a>"
     },
     {
         "outil": "Aucun",
@@ -205,7 +205,7 @@
         "entrep": "EURÊKA!",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
         "tel": "<a href=\"tel:0682465563\">06 82 46 55 63</a>",
-        "sitew": "<a href=\"https://eureka.dhont.fr\" target=\"_blank\">https://eureka.dhont.fr</a>"
+        "sitew": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">http://eureka.dhont.fr</a>"
     },
     {
         "outil": "Aucun",
@@ -406,6 +406,30 @@
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
         "tel": "<a href=\"tel:0257630603\">02 57 63 06 03</a>",
         "sitew": "<a href=\"https://www.webluma.com\" target=\"_blank\">https://www.webluma.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "PASCAL BAZZEA",
+        "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">https://pba-solutions.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "PASCAL BAZZEA",
+        "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">https://pba-solutions.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "PASCAL BAZZEA",
+        "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">https://pba-solutions.fr</a>"
     },
     {
         "outil": "Dolibarr",
