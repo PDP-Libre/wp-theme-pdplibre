@@ -80,6 +80,38 @@
         "sitew": "<a href=\"https://dokos.io\" target=\"_blank\">https://dokos.io</a>"
     },
     {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "ATM CONSULTING",
+        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
+        "tel": "<a href=\"tel:0977195070\">09 77 19 50 70</a>",
+        "sitew": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">https://www.atm-consulting.fr/</a>"
+    },
+    {
         "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "HELIUM TECHNOLOGIES",
@@ -352,6 +384,30 @@
         "sitew": "<a href=\"https://lozange.net\" target=\"_blank\">https://lozange.net</a>"
     },
     {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "COMAITE",
+        "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
+        "tel": "<a href=\"tel:0484512104\">04 84 51 21 04</a>",
+        "sitew": "<a href=\"https://www.comaite.com\" target=\"_blank\">https://www.comaite.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "COMAITE",
+        "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
+        "tel": "<a href=\"tel:0484512104\">04 84 51 21 04</a>",
+        "sitew": "<a href=\"https://www.comaite.com\" target=\"_blank\">https://www.comaite.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "COMAITE",
+        "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
+        "tel": "<a href=\"tel:0484512104\">04 84 51 21 04</a>",
+        "sitew": "<a href=\"https://www.comaite.com\" target=\"_blank\">https://www.comaite.com</a>"
+    },
+    {
         "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "WEMAY",
@@ -518,5 +574,29 @@
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
         "tel": "<a href=\"tel:0253358137\">02 53 35 81 37</a>",
         "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "INOVEA CONSEIL",
+        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
+        "tel": "",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "INOVEA CONSEIL",
+        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
+        "tel": "",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "ALTAIRIS",
+        "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
+        "tel": "<a href=\"tel:0954982339\">09 54 98 23 39</a>",
+        "sitew": "<a href=\"https://www.altairis.fr\" target=\"_blank\">https://www.altairis.fr</a>"
     }
 ]
