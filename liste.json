@@ -577,6 +577,30 @@
     },
     {
         "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "HABILE SOLUTIONS",
+        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
+        "tel": "<a href=\"tel:0650708508\">06 50 70 85 08</a>",
+        "sitew": "<a href=\"https://habile-solutions.com\" target=\"_blank\">https://habile-solutions.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "HABILE SOLUTIONS",
+        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
+        "tel": "<a href=\"tel:0650708508\">06 50 70 85 08</a>",
+        "sitew": "<a href=\"https://habile-solutions.com\" target=\"_blank\">https://habile-solutions.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "HABILE SOLUTIONS",
+        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
+        "tel": "<a href=\"tel:0650708508\">06 50 70 85 08</a>",
+        "sitew": "<a href=\"https://habile-solutions.com\" target=\"_blank\">https://habile-solutions.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
         "taille": "TPE",
         "entrep": "INOVEA CONSEIL",
         "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
