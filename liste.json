@@ -593,10 +593,9 @@
     },
     {
         "outil": "Dolibarr",
-        "taille": "ETI  GE",
+        "taille": "INDEPENDANT",
         "entrep": "ALTAIRIS",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
         "tel": "<a href=\"tel:0954982339\">09 54 98 23 39</a>",
         "sitew": "<a href=\"https://www.altairis.fr\" target=\"_blank\">https://www.altairis.fr</a>"
-    }
-]
+   
