@@ -324,7 +324,7 @@
         "taille": "INDEPENDANT",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
-        "tel": "",
+        "tel": "<a href=\"tel:262693556494\">00 262 6 93 55 64 94</a>",
         "sitew": ""
     },
     {
@@ -332,7 +332,7 @@
         "taille": "TPE",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
-        "tel": "",
+        "tel": "<a href=\"tel:262693556494\">00 262 6 93 55 64 94</a>",
         "sitew": ""
     },
     {
@@ -694,5 +694,45 @@
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
         "tel": "<a href=\"tel:0769540604\">07 69 54 06 04</a>",
         "sitew": "<a href=\"https://omrs.fr\" target=\"_blank\">https://omrs.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ANETSYS",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:0374475859\">03 74 47 58 59</a>",
+        "sitew": "<a href=\"https://anetsys.com\" target=\"_blank\">https://anetsys.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ANETSYS",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:0374475859\">03 74 47 58 59</a>",
+        "sitew": "<a href=\"https://anetsys.com\" target=\"_blank\">https://anetsys.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ANETSYS",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:0374475859\">03 74 47 58 59</a>",
+        "sitew": "<a href=\"https://anetsys.com\" target=\"_blank\">https://anetsys.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "ETI  GE",
+        "entrep": "ANETSYS",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:0374475859\">03 74 47 58 59</a>",
+        "sitew": "<a href=\"https://anetsys.com\" target=\"_blank\">https://anetsys.com</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "VERTUOZ",
+        "mail": "<a href=\"mailto:thomas.caplain@vertuoz.fr\">thomas.caplain@vertuoz.fr</a>",
+        "tel": "<a href=\"tel:0490893041\">04 90 89 30 41</a>",
+        "sitew": "<a href=\"https://www.vertuoz.fr\" target=\"_blank\">https://www.vertuoz.fr</a>"
     }
 ]
