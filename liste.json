@@ -774,5 +774,69 @@
         "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
         "tel": "<a href=\"tel:0458220066\">04 58 22 00 66</a>",
         "sitew": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">https://bonbonsduvercors.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "WININFO",
+        "mail": "<a href=\"mailto:rfe@wininfo.fr\">rfe@wininfo.fr</a>",
+        "tel": "<a href=\"tel:0556223211\">05 56 22 32 11</a>",
+        "sitew": "<a href=\"https://www.wininfo.fr/\" target=\"_blank\">https://www.wininfo.fr/</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "PME",
+        "entrep": "WININFO",
+        "mail": "<a href=\"mailto:rfe@wininfo.fr\">rfe@wininfo.fr</a>",
+        "tel": "<a href=\"tel:0556223211\">05 56 22 32 11</a>",
+        "sitew": "<a href=\"https://www.wininfo.fr/\" target=\"_blank\">https://www.wininfo.fr/</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "EPOK",
+        "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
+        "tel": "<a href=\"tel:0476132780\">04 76 13 27 80</a>",
+        "sitew": "<a href=\"https://epok.one\" target=\"_blank\">https://epok.one</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "EPOK",
+        "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
+        "tel": "<a href=\"tel:0476132780\">04 76 13 27 80</a>",
+        "sitew": "<a href=\"https://epok.one\" target=\"_blank\">https://epok.one</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "EPOK",
+        "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
+        "tel": "<a href=\"tel:0476132780\">04 76 13 27 80</a>",
+        "sitew": "<a href=\"https://epok.one\" target=\"_blank\">https://epok.one</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "SOLAUV",
+        "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
+        "tel": "<a href=\"tel:0471501301\">04 71 50 13 01</a>",
+        "sitew": "<a href=\"https://solauv.fr\" target=\"_blank\">https://solauv.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "SOLAUV",
+        "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
+        "tel": "<a href=\"tel:0471501301\">04 71 50 13 01</a>",
+        "sitew": "<a href=\"https://solauv.fr\" target=\"_blank\">https://solauv.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "SOLAUV",
+        "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
+        "tel": "<a href=\"tel:0471501301\">04 71 50 13 01</a>",
+        "sitew": "<a href=\"https://solauv.fr\" target=\"_blank\">https://solauv.fr</a>"
     }
 ]
