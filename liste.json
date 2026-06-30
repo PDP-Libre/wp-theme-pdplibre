@@ -362,6 +362,22 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
+        "entrep": "ELICLA Numérique ",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ELICLA Numérique ",
+        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
+        "tel": "",
+        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
         "entrep": "LOZANGE IT",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
         "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
@@ -674,7 +690,7 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
-        "entrep": "Olivier MARS OMRS",
+        "entrep": "OMRS",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
         "tel": "<a href=\"tel:0769540604\">07 69 54 06 04</a>",
         "sitew": "<a href=\"https://omrs.fr\" target=\"_blank\">https://omrs.fr</a>"
@@ -682,7 +698,7 @@
     {
         "outil": "Dolibarr",
         "taille": "TPE",
-        "entrep": "Olivier MARS OMRS",
+        "entrep": "OMRS",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
         "tel": "<a href=\"tel:0769540604\">07 69 54 06 04</a>",
         "sitew": "<a href=\"https://omrs.fr\" target=\"_blank\">https://omrs.fr</a>"
@@ -690,7 +706,7 @@
     {
         "outil": "Dolibarr",
         "taille": "PME",
-        "entrep": "Olivier MARS OMRS",
+        "entrep": "OMRS",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
         "tel": "<a href=\"tel:0769540604\">07 69 54 06 04</a>",
         "sitew": "<a href=\"https://omrs.fr\" target=\"_blank\">https://omrs.fr</a>"
@@ -734,5 +750,29 @@
         "mail": "<a href=\"mailto:thomas.caplain@vertuoz.fr\">thomas.caplain@vertuoz.fr</a>",
         "tel": "<a href=\"tel:0490893041\">04 90 89 30 41</a>",
         "sitew": "<a href=\"https://www.vertuoz.fr\" target=\"_blank\">https://www.vertuoz.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "ÈRE ÉTHIQUE",
+        "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
+        "tel": "<a href=\"tel:0458220066\">04 58 22 00 66</a>",
+        "sitew": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">https://bonbonsduvercors.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "ÈRE ÉTHIQUE",
+        "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
+        "tel": "<a href=\"tel:0458220066\">04 58 22 00 66</a>",
+        "sitew": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">https://bonbonsduvercors.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "ÈRE ÉTHIQUE",
+        "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
+        "tel": "<a href=\"tel:0458220066\">04 58 22 00 66</a>",
+        "sitew": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">https://bonbonsduvercors.fr</a>"
     }
 ]
