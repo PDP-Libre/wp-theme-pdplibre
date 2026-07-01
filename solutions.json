@@ -1,6 +1,7 @@
 [
     {
         "outil": "Dolibarr",
+        "nom": "OPEN-DSI",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">OPEN-DSI</a>",
         "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
@@ -10,6 +11,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "OPEN-DSI",
         "taille": "PME",
         "entrep": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">OPEN-DSI</a>",
         "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
@@ -19,6 +21,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "OPEN-DSI",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">OPEN-DSI</a>",
         "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
@@ -28,6 +31,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEBELYS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.webelys.com\" target=\"_blank\">WEBELYS</a>",
         "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
@@ -37,6 +41,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEBELYS",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.webelys.com\" target=\"_blank\">WEBELYS</a>",
         "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
@@ -46,6 +51,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEBELYS",
         "taille": "PME",
         "entrep": "<a href=\"https://www.webelys.com\" target=\"_blank\">WEBELYS</a>",
         "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
@@ -55,6 +61,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "NORD ERP CRM",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">NORD ERP CRM</a>",
         "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
@@ -64,6 +71,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "NORD ERP CRM",
         "taille": "PME",
         "entrep": "<a href=\"https://www.nord-erp-crm.fr/\" target=\"_blank\">NORD ERP CRM</a>",
         "mail": "<a href=\"mailto:contact@nord-erp-crm.fr\">contact@nord-erp-crm.fr</a>",
@@ -73,6 +81,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "DOKOS SAS",
         "taille": "TPE",
         "entrep": "<a href=\"https://dokos.io\" target=\"_blank\">DOKOS SAS</a>",
         "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
@@ -82,6 +91,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "DOKOS SAS",
         "taille": "PME",
         "entrep": "<a href=\"https://dokos.io\" target=\"_blank\">DOKOS SAS</a>",
         "mail": "<a href=\"mailto:hello@dokos.io\">hello@dokos.io</a>",
@@ -91,6 +101,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ATM CONSULTING",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
         "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
@@ -100,6 +111,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ATM CONSULTING",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
         "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
@@ -109,6 +121,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ATM CONSULTING",
         "taille": "PME",
         "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
         "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
@@ -118,6 +131,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ATM CONSULTING",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
         "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
@@ -127,6 +141,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "HELIUM TECHNOLOGIES",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
@@ -136,6 +151,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "HELIUM TECHNOLOGIES",
         "taille": "TPE",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
@@ -145,6 +161,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "HELIUM TECHNOLOGIES",
         "taille": "PME",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
@@ -154,6 +171,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "NIIT SAS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.niit.fr\" target=\"_blank\">NIIT SAS</a>",
         "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
@@ -163,6 +181,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "NIIT SAS",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.niit.fr\" target=\"_blank\">NIIT SAS</a>",
         "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
@@ -172,6 +191,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "NIIT SAS",
         "taille": "PME",
         "entrep": "<a href=\"https://www.niit.fr\" target=\"_blank\">NIIT SAS</a>",
         "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
@@ -181,6 +201,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "X POITOU NETWORK",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://xpoitou.fr\" target=\"_blank\">X POITOU NETWORK</a>",
         "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
@@ -190,6 +211,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "X POITOU NETWORK",
         "taille": "TPE",
         "entrep": "<a href=\"https://xpoitou.fr\" target=\"_blank\">X POITOU NETWORK</a>",
         "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
@@ -199,6 +221,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ABCOM  RESEAUX",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
@@ -208,6 +231,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ABCOM  RESEAUX",
         "taille": "TPE",
         "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
@@ -217,6 +241,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ABCOM  RESEAUX",
         "taille": "PME",
         "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
         "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
@@ -226,6 +251,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SCOPEN",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.scopen.fr\" target=\"_blank\">SCOPEN</a>",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
@@ -235,6 +261,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SCOPEN",
         "taille": "PME",
         "entrep": "<a href=\"https://www.scopen.fr\" target=\"_blank\">SCOPEN</a>",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
@@ -244,6 +271,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SCOPEN",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://www.scopen.fr\" target=\"_blank\">SCOPEN</a>",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
@@ -253,6 +281,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "EURÊKA!",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">EURÊKA!</a>",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
@@ -262,6 +291,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "EURÊKA!",
         "taille": "TPE",
         "entrep": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">EURÊKA!</a>",
         "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
@@ -271,6 +301,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "BD2DB",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://factur-e.fr\" target=\"_blank\">BD2DB</a>",
         "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
@@ -280,6 +311,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "BD2DB",
         "taille": "TPE",
         "entrep": "<a href=\"https://factur-e.fr\" target=\"_blank\">BD2DB</a>",
         "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
@@ -289,6 +321,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "VOLD France",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">VOLD France</a>",
         "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
@@ -298,6 +331,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "VOLD France",
         "taille": "PME",
         "entrep": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">VOLD France</a>",
         "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
@@ -307,6 +341,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "TECHNI PC",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
         "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
@@ -316,6 +351,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "TECHNI PC",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
         "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
@@ -325,6 +361,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "TECHNI PC",
         "taille": "PME",
         "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
         "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
@@ -334,6 +371,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEEDOO Digital",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://weedoo.digital\" target=\"_blank\">WEEDOO Digital</a>",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
@@ -343,6 +381,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEEDOO Digital",
         "taille": "TPE",
         "entrep": "<a href=\"https://weedoo.digital\" target=\"_blank\">WEEDOO Digital</a>",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
@@ -352,6 +391,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "WEEDOO Digital",
         "taille": "PME",
         "entrep": "<a href=\"https://weedoo.digital\" target=\"_blank\">WEEDOO Digital</a>",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
@@ -361,6 +401,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "LAVA RUN",
         "taille": "INDEPENDANT",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
@@ -370,6 +411,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "LAVA RUN",
         "taille": "TPE",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
@@ -379,6 +421,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "MONA",
         "taille": "INDEPENDANT",
         "entrep": "MONA",
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
@@ -388,6 +431,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "MONA",
         "taille": "TPE",
         "entrep": "MONA",
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
@@ -397,6 +441,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "MONA",
         "taille": "PME",
         "entrep": "MONA",
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
@@ -406,6 +451,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ELICLA Numérique ",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.elicla.eu\" target=\"_blank\">ELICLA Numérique</a>",
         "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
@@ -415,6 +461,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ELICLA Numérique ",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.elicla.eu\" target=\"_blank\">ELICLA Numérique</a>",
         "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
@@ -424,6 +471,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "LOZANGE IT",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://lozange.net\" target=\"_blank\">LOZANGE IT</a>",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
@@ -433,6 +481,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "LOZANGE IT",
         "taille": "TPE",
         "entrep": "<a href=\"https://lozange.net\" target=\"_blank\">LOZANGE IT</a>",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
@@ -442,6 +491,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "LOZANGE IT",
         "taille": "PME",
         "entrep": "<a href=\"https://lozange.net\" target=\"_blank\">LOZANGE IT</a>",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
@@ -451,6 +501,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "COMAITE",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.comaite.com\" target=\"_blank\">COMAITE</a>",
         "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
@@ -460,6 +511,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "COMAITE",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.comaite.com\" target=\"_blank\">COMAITE</a>",
         "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
@@ -469,6 +521,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "COMAITE",
         "taille": "PME",
         "entrep": "<a href=\"https://www.comaite.com\" target=\"_blank\">COMAITE</a>",
         "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
@@ -478,6 +531,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEMAY",
         "taille": "INDEPENDANT",
         "entrep": "WEMAY",
         "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
@@ -487,6 +541,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEMAY",
         "taille": "TPE",
         "entrep": "WEMAY",
         "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
@@ -496,6 +551,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEMAY",
         "taille": "PME",
         "entrep": "WEMAY",
         "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
@@ -505,6 +561,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEBLUMA",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
@@ -514,6 +571,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEBLUMA",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
@@ -523,6 +581,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEBLUMA",
         "taille": "PME",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
@@ -532,6 +591,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WEBLUMA",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
@@ -541,6 +601,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PASCAL BAZZEA",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">PASCAL BAZZEA</a>",
         "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
@@ -550,6 +611,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PASCAL BAZZEA",
         "taille": "TPE",
         "entrep": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">PASCAL BAZZEA</a>",
         "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
@@ -559,6 +621,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PASCAL BAZZEA",
         "taille": "PME",
         "entrep": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">PASCAL BAZZEA</a>",
         "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
@@ -568,6 +631,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRAGMA-TECH",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">PRAGMA-TECH</a>",
         "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
@@ -577,6 +641,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRAGMA-TECH",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">PRAGMA-TECH</a>",
         "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
@@ -586,6 +651,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRAGMA-TECH",
         "taille": "PME",
         "entrep": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">PRAGMA-TECH</a>",
         "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
@@ -595,6 +661,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "IDFOR CONSULTING",
         "taille": "TPE",
         "entrep": "<a href=\"https://idfor.fr\" target=\"_blank\">IDFOR CONSULTING</a>",
         "mail": "<a href=\"mailto:eric.moleon@idfor.fr\">eric.moleon@idfor.fr</a>",
@@ -604,6 +671,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "IDFOR CONSULTING",
         "taille": "PME",
         "entrep": "<a href=\"https://idfor.fr\" target=\"_blank\">IDFOR CONSULTING</a>",
         "mail": "<a href=\"mailto:eric.moleon@idfor.fr\">eric.moleon@idfor.fr</a>",
@@ -613,6 +681,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRESTALIDAIRE",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">PRESTALIDAIRE</a>",
         "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
@@ -622,6 +691,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRESTALIDAIRE",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">PRESTALIDAIRE</a>",
         "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
@@ -631,6 +701,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PRESTALIDAIRE",
         "taille": "PME",
         "entrep": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">PRESTALIDAIRE</a>",
         "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
@@ -640,6 +711,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ACTIUM SI",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
@@ -649,6 +721,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ACTIUM SI",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
@@ -658,6 +731,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ACTIUM SI",
         "taille": "PME",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
@@ -667,6 +741,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "HABILE SOLUTIONS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
         "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
@@ -676,6 +751,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "HABILE SOLUTIONS",
         "taille": "TPE",
         "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
         "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
@@ -685,6 +761,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "HABILE SOLUTIONS",
         "taille": "PME",
         "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
         "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
@@ -694,6 +771,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "INOVEA CONSEIL",
         "taille": "TPE",
         "entrep": "INOVEA CONSEIL",
         "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
@@ -703,6 +781,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "INOVEA CONSEIL",
         "taille": "PME",
         "entrep": "INOVEA CONSEIL",
         "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
@@ -712,6 +791,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ALTAIRIS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
@@ -721,6 +801,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ALTAIRIS",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
@@ -730,6 +811,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ALTAIRIS",
         "taille": "PME",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
@@ -739,6 +821,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ALTAIRIS",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
@@ -748,6 +831,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "GAGZEN",
         "taille": "TPE",
         "entrep": "<a href=\"https://gagzen.net\" target=\"_blank\">GAGZEN</a>",
         "mail": "<a href=\"mailto:pdplibre@gagzen.net\">pdplibre@gagzen.net</a>",
@@ -757,6 +841,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "JM SUD INFORMATIQUE",
         "taille": "TPE",
         "entrep": "<a href=\"https://b2b.jmlab.eu\" target=\"_blank\">JM SUD INFORMATIQUE</a>",
         "mail": "<a href=\"mailto:contact@jmlab.eu\">contact@jmlab.eu</a>",
@@ -766,6 +851,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "JM SUD INFORMATIQUE",
         "taille": "PME",
         "entrep": "<a href=\"https://b2b.jmlab.eu\" target=\"_blank\">JM SUD INFORMATIQUE</a>",
         "mail": "<a href=\"mailto:contact@jmlab.eu\">contact@jmlab.eu</a>",
@@ -775,6 +861,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "OMRS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
@@ -784,6 +871,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "OMRS",
         "taille": "TPE",
         "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
@@ -793,6 +881,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "OMRS",
         "taille": "PME",
         "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
         "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
@@ -802,6 +891,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ANETSYS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
@@ -811,6 +901,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ANETSYS",
         "taille": "TPE",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
@@ -820,6 +911,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ANETSYS",
         "taille": "PME",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
@@ -829,6 +921,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ANETSYS",
         "taille": "ETI  GE",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
@@ -838,6 +931,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "VERTUOZ",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.vertuoz.fr\" target=\"_blank\">VERTUOZ</a>",
         "mail": "<a href=\"mailto:thomas.caplain@vertuoz.fr\">thomas.caplain@vertuoz.fr</a>",
@@ -847,6 +941,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ÈRE ÉTHIQUE",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">ÈRE ÉTHIQUE</a>",
         "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
@@ -856,6 +951,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ÈRE ÉTHIQUE",
         "taille": "TPE",
         "entrep": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">ÈRE ÉTHIQUE</a>",
         "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
@@ -865,6 +961,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ÈRE ÉTHIQUE",
         "taille": "PME",
         "entrep": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">ÈRE ÉTHIQUE</a>",
         "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
@@ -874,6 +971,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WININFO",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.wininfo.fr/\" target=\"_blank\">WININFO</a>",
         "mail": "<a href=\"mailto:rfe@wininfo.fr\">rfe@wininfo.fr</a>",
@@ -883,6 +981,7 @@
     },
     {
         "outil": "Aucun",
+        "nom": "WININFO",
         "taille": "PME",
         "entrep": "<a href=\"https://www.wininfo.fr/\" target=\"_blank\">WININFO</a>",
         "mail": "<a href=\"mailto:rfe@wininfo.fr\">rfe@wininfo.fr</a>",
@@ -892,6 +991,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "EPOK",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://epok.one\" target=\"_blank\">EPOK</a>",
         "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
@@ -901,6 +1001,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "EPOK",
         "taille": "TPE",
         "entrep": "<a href=\"https://epok.one\" target=\"_blank\">EPOK</a>",
         "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
@@ -910,6 +1011,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "EPOK",
         "taille": "PME",
         "entrep": "<a href=\"https://epok.one\" target=\"_blank\">EPOK</a>",
         "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
@@ -919,6 +1021,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SOLAUV",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
@@ -928,6 +1031,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SOLAUV",
         "taille": "TPE",
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
@@ -937,6 +1041,7 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "SOLAUV",
         "taille": "PME",
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
