@@ -242,6 +242,22 @@
     {
         "outil": "Aucun",
         "taille": "INDEPENDANT",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
         "entrep": "BD2DB",
         "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
         "tel": "",
@@ -568,7 +584,7 @@
         "sitew": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">https://www.prestalidaire.com</a>"
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "taille": "INDEPENDANT",
         "entrep": "ACTIUM SI",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
@@ -576,7 +592,7 @@
         "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "taille": "TPE",
         "entrep": "ACTIUM SI",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
@@ -584,7 +600,7 @@
         "sitew": "<a href=\"https://www.actium-si.com\" target=\"_blank\">https://www.actium-si.com</a>"
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "taille": "PME",
         "entrep": "ACTIUM SI",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
