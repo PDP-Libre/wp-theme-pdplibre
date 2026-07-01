@@ -301,6 +301,26 @@
     },
     {
         "outil": "Aucun",
+        "nom": "Superindep",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://www.superindep.fr\" target=\"_blank\">Superindep</a>",
+        "mail": "",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": "x"
+    },
+    {
+        "outil": "Aucun",
+        "nom": "Superindep",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.superindep.fr\" target=\"_blank\">Superindep</a>",
+        "mail": "",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": "x"
+    },
+    {
+        "outil": "Aucun",
         "nom": "BD2DB",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://factur-e.fr\" target=\"_blank\">BD2DB</a>",
@@ -710,7 +730,7 @@
         "superpdp": ""
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "nom": "ACTIUM SI",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
@@ -720,7 +740,7 @@
         "superpdp": ""
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "nom": "ACTIUM SI",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
@@ -730,7 +750,7 @@
         "superpdp": ""
     },
     {
-        "outil": "Dolibarr",
+        "outil": "Aucun",
         "nom": "ACTIUM SI",
         "taille": "PME",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
