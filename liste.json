@@ -242,6 +242,22 @@
     {
         "outil": "Aucun",
         "taille": "INDEPENDANT",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "TPE",
+        "entrep": "Superindep",
+        "mail": "",
+        "tel": "",
+        "sitew": "<a href=\"https://www.superindep.fr\" target=\"_blank\">https://www.superindep.fr</a>"
+    },
+    {
+        "outil": "Aucun",
+        "taille": "INDEPENDANT",
         "entrep": "BD2DB",
         "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
         "tel": "",
@@ -814,6 +830,22 @@
         "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
         "tel": "<a href=\"tel:0476132780\">04 76 13 27 80</a>",
         "sitew": "<a href=\"https://epok.one\" target=\"_blank\">https://epok.one</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "PTMSoft",
+        "mail": "<a href=\"mailto:marc.baur@ptmsoft.fr\">marc.baur@ptmsoft.fr</a>",
+        "tel": "<a href=\"tel:0980083153\">09 80 08 31 53</a>",
+        "sitew": "<a href=\"https://www.ptmsoft.fr\" target=\"_blank\">https://www.ptmsoft.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "PTMSoft",
+        "mail": "<a href=\"mailto:marc.baur@ptmsoft.fr\">marc.baur@ptmsoft.fr</a>",
+        "tel": "<a href=\"tel:0980083153\">09 80 08 31 53</a>",
+        "sitew": "<a href=\"https://www.ptmsoft.fr\" target=\"_blank\">https://www.ptmsoft.fr</a>"
     },
     {
         "outil": "Dolibarr",
