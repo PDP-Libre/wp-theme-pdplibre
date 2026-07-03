@@ -378,22 +378,6 @@
     {
         "outil": "Dolibarr",
         "taille": "INDEPENDANT",
-        "entrep": "ELICLA Numérique ",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
-    },
-    {
-        "outil": "Dolibarr",
-        "taille": "TPE",
-        "entrep": "ELICLA Numérique ",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "sitew": "<a href=\"https://www.elicla.eu\" target=\"_blank\">https://www.elicla.eu</a>"
-    },
-    {
-        "outil": "Dolibarr",
-        "taille": "INDEPENDANT",
         "entrep": "LOZANGE IT",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
         "tel": "<a href=\"tel:0479685990\">04 79 68 59 90</a>",
