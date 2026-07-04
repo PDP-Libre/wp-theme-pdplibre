@@ -776,6 +776,30 @@
         "sitew": "<a href=\"https://bonbonsduvercors.fr\" target=\"_blank\">https://bonbonsduvercors.fr</a>"
     },
     {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "NANAKA BUSINESS SOLUTIONS",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "sitew": "<a href=\"https://www.nanaka.re\" target=\"_blank\">https://www.nanaka.re</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "NANAKA BUSINESS SOLUTIONS",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "sitew": "<a href=\"https://www.nanaka.re\" target=\"_blank\">https://www.nanaka.re</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "NANAKA BUSINESS SOLUTIONS",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "sitew": "<a href=\"https://www.nanaka.re\" target=\"_blank\">https://www.nanaka.re</a>"
+    },
+    {
         "outil": "Aucun",
         "taille": "TPE",
         "entrep": "WININFO",
@@ -854,5 +878,21 @@
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
         "tel": "<a href=\"tel:0471501301\">04 71 50 13 01</a>",
         "sitew": "<a href=\"https://solauv.fr\" target=\"_blank\">https://solauv.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "PROGISEIZE",
+        "mail": "<a href=\"mailto:o.tourvieille@progiseize.fr\">o.tourvieille@progiseize.fr</a>",
+        "tel": "<a href=\"tel:0684824421\">06 84 82 44 21</a>",
+        "sitew": "<a href=\"https://progiseize.fr\" target=\"_blank\">https://progiseize.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "PME",
+        "entrep": "PROGISEIZE",
+        "mail": "<a href=\"mailto:o.tourvieille@progiseize.fr\">o.tourvieille@progiseize.fr</a>",
+        "tel": "<a href=\"tel:0684824421\">06 84 82 44 21</a>",
+        "sitew": "<a href=\"https://progiseize.fr\" target=\"_blank\">https://progiseize.fr</a>"
     }
 ]
