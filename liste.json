@@ -894,5 +894,21 @@
         "mail": "<a href=\"mailto:o.tourvieille@progiseize.fr\">o.tourvieille@progiseize.fr</a>",
         "tel": "<a href=\"tel:0684824421\">06 84 82 44 21</a>",
         "sitew": "<a href=\"https://progiseize.fr\" target=\"_blank\">https://progiseize.fr</a>"
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "INDEPENDANT",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:0672098558\">06 72 09 85 58</a>",
+        "sitew": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "taille": "TPE",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:0672098558\">06 72 09 85 58</a>",
+        "sitew": ""
     }
 ]
