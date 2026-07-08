@@ -471,26 +471,6 @@
     },
     {
         "outil": "Dolibarr",
-        "nom": "ELICLA Numérique ",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://www.elicla.eu\" target=\"_blank\">ELICLA Numérique</a>",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ELICLA Numérique ",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://www.elicla.eu\" target=\"_blank\">ELICLA Numérique</a>",
-        "mail": "<a href=\"mailto:m.verove@elicla.eu\">m.verove@elicla.eu</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
         "nom": "LOZANGE IT",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://lozange.net\" target=\"_blank\">LOZANGE IT</a>",
@@ -990,6 +970,36 @@
         "superpdp": ""
     },
     {
+        "outil": "Dolibarr",
+        "nom": "NANAKA BUSINESS SOLUTIONS",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NANAKA BUSINESS SOLUTIONS",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NANAKA BUSINESS SOLUTIONS",
+        "taille": "PME",
+        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
+        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
+        "tel": "<a href=\"tel:262263120037\">00 262 2 63 12 00 37</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
         "outil": "Aucun",
         "nom": "WININFO",
         "taille": "TPE",
@@ -1041,6 +1051,26 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "PTMSoft",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://www.ptmsoft.fr\" target=\"_blank\">PTMSoft</a>",
+        "mail": "<a href=\"mailto:marc.baur@ptmsoft.fr\">marc.baur@ptmsoft.fr</a>",
+        "tel": "<a href=\"tel:0980083153\">09 80 08 31 53</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PTMSoft",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.ptmsoft.fr\" target=\"_blank\">PTMSoft</a>",
+        "mail": "<a href=\"mailto:marc.baur@ptmsoft.fr\">marc.baur@ptmsoft.fr</a>",
+        "tel": "<a href=\"tel:0980083153\">09 80 08 31 53</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
         "nom": "SOLAUV",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
@@ -1066,6 +1096,46 @@
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
         "tel": "<a href=\"tel:0471501301\">04 71 50 13 01</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PROGISEIZE",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://progiseize.fr\" target=\"_blank\">PROGISEIZE</a>",
+        "mail": "<a href=\"mailto:o.tourvieille@progiseize.fr\">o.tourvieille@progiseize.fr</a>",
+        "tel": "<a href=\"tel:0684824421\">06 84 82 44 21</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PROGISEIZE",
+        "taille": "PME",
+        "entrep": "<a href=\"https://progiseize.fr\" target=\"_blank\">PROGISEIZE</a>",
+        "mail": "<a href=\"mailto:o.tourvieille@progiseize.fr\">o.tourvieille@progiseize.fr</a>",
+        "tel": "<a href=\"tel:0684824421\">06 84 82 44 21</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "LMCG CONSEIL",
+        "taille": "INDEPENDANT",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:0672098558\">06 72 09 85 58</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "LMCG CONSEIL",
+        "taille": "TPE",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:0672098558\">06 72 09 85 58</a>",
         "esalink": "x",
         "superpdp": ""
     }
