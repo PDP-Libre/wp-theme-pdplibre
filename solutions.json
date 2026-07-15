@@ -1138,5 +1138,25 @@
         "tel": "<a href=\"tel:0672098558\">06 72 09 85 58</a>",
         "esalink": "x",
         "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NETFABRIKA",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.netfabrika.com/\" target=\"_blank\">NETFABRIKA</a>",
+        "mail": "<a href=\"mailto:david.lelaidier@netfabrika.com\">david.lelaidier@netfabrika.com</a>",
+        "tel": "<a href=\"tel:0185100490\">01 85 10 04 90</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NETFABRIKA",
+        "taille": "PME",
+        "entrep": "<a href=\"https://www.netfabrika.com/\" target=\"_blank\">NETFABRIKA</a>",
+        "mail": "<a href=\"mailto:david.lelaidier@netfabrika.com\">david.lelaidier@netfabrika.com</a>",
+        "tel": "<a href=\"tel:0185100490\">01 85 10 04 90</a>",
+        "esalink": "x",
+        "superpdp": ""
     }
 ]
