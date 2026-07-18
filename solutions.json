@@ -1158,5 +1158,25 @@
         "tel": "<a href=\"tel:0185100490\">01 85 10 04 90</a>",
         "esalink": "x",
         "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "DIFFERANGLES",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.differangles.fr\" target=\"_blank\">DIFFERANGLES</a>",
+        "mail": "<a href=\"mailto:julien@differangles.fr\">julien@differangles.fr</a>",
+        "tel": "<a href=\"tel:0659292594\">06 59 29 25 94</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "DIFFERANGLES",
+        "taille": "PME",
+        "entrep": "<a href=\"https://www.differangles.fr\" target=\"_blank\">DIFFERANGLES</a>",
+        "mail": "<a href=\"mailto:julien@differangles.fr\">julien@differangles.fr</a>",
+        "tel": "<a href=\"tel:0659292594\">06 59 29 25 94</a>",
+        "esalink": "x",
+        "superpdp": ""
     }
 ]
