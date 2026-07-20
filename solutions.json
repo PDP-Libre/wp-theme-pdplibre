@@ -1178,5 +1178,35 @@
         "tel": "<a href=\"tel:0659292594\">06 59 29 25 94</a>",
         "esalink": "x",
         "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "EZYTECH",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://www.ezytech.fr\" target=\"_blank\">EZYTECH</a>",
+        "mail": "<a href=\"mailto:antoine@ezytech.fr\">antoine@ezytech.fr</a>",
+        "tel": "<a href=\"tel:0320886323\">03 20 88 63 23</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "EZYTECH",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.ezytech.fr\" target=\"_blank\">EZYTECH</a>",
+        "mail": "<a href=\"mailto:antoine@ezytech.fr\">antoine@ezytech.fr</a>",
+        "tel": "<a href=\"tel:0320886323\">03 20 88 63 23</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "EZYTECH",
+        "taille": "PME",
+        "entrep": "<a href=\"https://www.ezytech.fr\" target=\"_blank\">EZYTECH</a>",
+        "mail": "<a href=\"mailto:antoine@ezytech.fr\">antoine@ezytech.fr</a>",
+        "tel": "<a href=\"tel:0320886323\">03 20 88 63 23</a>",
+        "esalink": "x",
+        "superpdp": ""
     }
 ]
