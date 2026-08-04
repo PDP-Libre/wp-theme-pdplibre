@@ -105,7 +105,7 @@
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "tel": "<a href=\"tel:509590860155\">00 509 5 90 86 01 55</a>",
         "esalink": "x",
         "superpdp": "x"
     },
@@ -115,7 +115,7 @@
         "taille": "TPE",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "tel": "<a href=\"tel:509590860155\">00 509 5 90 86 01 55</a>",
         "esalink": "x",
         "superpdp": "x"
     },
@@ -125,7 +125,7 @@
         "taille": "PME",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
-        "tel": "<a href=\"tel:0590860155\">05 90 86 01 55</a>",
+        "tel": "<a href=\"tel:509590860155\">00 509 5 90 86 01 55</a>",
         "esalink": "x",
         "superpdp": "x"
     },
@@ -1286,6 +1286,66 @@
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
         "tel": "<a href=\"tel:0374475859\">03 74 47 58 59</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "INFRAS",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
+        "mail": "<a href=\"mailto:sylvain.legrand@infras.fr\">sylvain.legrand@infras.fr</a>",
+        "tel": "<a href=\"tel:0458210001\">04 58 21 00 01</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "INFRAS",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
+        "mail": "<a href=\"mailto:sylvain.legrand@infras.fr\">sylvain.legrand@infras.fr</a>",
+        "tel": "<a href=\"tel:0458210001\">04 58 21 00 01</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "INFRAS",
+        "taille": "PME",
+        "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
+        "mail": "<a href=\"mailto:sylvain.legrand@infras.fr\">sylvain.legrand@infras.fr</a>",
+        "tel": "<a href=\"tel:0458210001\">04 58 21 00 01</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PWT",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://kataleya-france.com\" target=\"_blank\">PWT</a>",
+        "mail": "<a href=\"mailto:cyril@pwt-france.com\">cyril@pwt-france.com</a>",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PWT",
+        "taille": "PME",
+        "entrep": "<a href=\"https://kataleya-france.com\" target=\"_blank\">PWT</a>",
+        "mail": "<a href=\"mailto:cyril@pwt-france.com\">cyril@pwt-france.com</a>",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "PWT",
+        "taille": "ETI  GE",
+        "entrep": "<a href=\"https://kataleya-france.com\" target=\"_blank\">PWT</a>",
+        "mail": "<a href=\"mailto:cyril@pwt-france.com\">cyril@pwt-france.com</a>",
+        "tel": "",
         "esalink": "x",
         "superpdp": ""
     }
