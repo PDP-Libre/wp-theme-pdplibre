@@ -160,76 +160,6 @@
         "superpdp": ""
     },
     {
-        "outil": "Dolibarr",
-        "nom": "X POITOU NETWORK",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://xpoitou.fr\" target=\"_blank\">X POITOU NETWORK</a>",
-        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
-        "tel": "<a href=\"tel:07 84 96 85 77\">07 84 96 85 77</a>",
-        "esalink": "x",
-        "superpdp": "x"
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "X POITOU NETWORK",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://xpoitou.fr\" target=\"_blank\">X POITOU NETWORK</a>",
-        "mail": "<a href=\"mailto:pierre@xpoitou.fr\">pierre@xpoitou.fr</a>",
-        "tel": "<a href=\"tel:07 84 96 85 77\">07 84 96 85 77</a>",
-        "esalink": "x",
-        "superpdp": "x"
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ABCOM  RESEAUX",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
-        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ABCOM  RESEAUX",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
-        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ABCOM  RESEAUX",
-        "taille": "PME",
-        "entrep": "<a href=\"https://abcomreseaux.com/\" target=\"_blank\">ABCOM  RESEAUX</a>",
-        "mail": "<a href=\"mailto:dolibarr@abcomreseaux.fr\">dolibarr@abcomreseaux.fr</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Aucun",
-        "nom": "EURÊKA!",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">EURÊKA!</a>",
-        "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
-        "tel": "<a href=\"tel:06 82 46 55 63\">06 82 46 55 63</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Aucun",
-        "nom": "EURÊKA!",
-        "taille": "TPE",
-        "entrep": "<a href=\"http://eureka.dhont.fr\" target=\"_blank\">EURÊKA!</a>",
-        "mail": "<a href=\"mailto:eureka@dhont.fr\">eureka@dhont.fr</a>",
-        "tel": "<a href=\"tel:06 82 46 55 63\">06 82 46 55 63</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
         "outil": "Aucun",
         "nom": "Superindep",
         "taille": "INDEPENDANT",
@@ -286,36 +216,6 @@
         "entrep": "<a href=\"https://www.voldgroup.com/\" target=\"_blank\">VOLD France</a>",
         "mail": "<a href=\"mailto:f.pierquet@vold.lu\">f.pierquet@vold.lu</a>",
         "tel": "<a href=\"tel:09 70 16 19 43\">09 70 16 19 43</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "TECHNI PC",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
-        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
-        "tel": "<a href=\"tel:03 63 11 01 77\">03 63 11 01 77</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "TECHNI PC",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
-        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
-        "tel": "<a href=\"tel:03 63 11 01 77\">03 63 11 01 77</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "TECHNI PC",
-        "taille": "PME",
-        "entrep": "<a href=\"https://www.technipc.fr\" target=\"_blank\">TECHNI PC</a>",
-        "mail": "<a href=\"mailto:contact@technipc.fr\">contact@technipc.fr</a>",
-        "tel": "<a href=\"tel:03 63 11 01 77\">03 63 11 01 77</a>",
         "esalink": "x",
         "superpdp": ""
     },
@@ -628,76 +528,6 @@
         "tel": "<a href=\"tel:02 53 35 81 37\">02 53 35 81 37</a>",
         "esalink": "x",
         "superpdp": "x"
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "GDSOFT",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://www.gdsoft.fr\" target=\"_blank\">GDSOFT</a>",
-        "mail": "<a href=\"mailto:rgaillard@gdsoft.fr\">rgaillard@gdsoft.fr</a>",
-        "tel": "<a href=\"tel:04 86 84 08 92\">04 86 84 08 92</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "GDSOFT",
-        "taille": "PME",
-        "entrep": "<a href=\"https://www.gdsoft.fr\" target=\"_blank\">GDSOFT</a>",
-        "mail": "<a href=\"mailto:rgaillard@gdsoft.fr\">rgaillard@gdsoft.fr</a>",
-        "tel": "<a href=\"tel:04 86 84 08 92\">04 86 84 08 92</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "HABILE SOLUTIONS",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
-        "tel": "<a href=\"tel:06 50 70 85 08\">06 50 70 85 08</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "HABILE SOLUTIONS",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
-        "tel": "<a href=\"tel:06 50 70 85 08\">06 50 70 85 08</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "HABILE SOLUTIONS",
-        "taille": "PME",
-        "entrep": "<a href=\"https://habile-solutions.com\" target=\"_blank\">HABILE SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:sebastien.haddad@habile-solutions.com\">sebastien.haddad@habile-solutions.com</a>",
-        "tel": "<a href=\"tel:06 50 70 85 08\">06 50 70 85 08</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "INOVEA CONSEIL",
-        "taille": "TPE",
-        "entrep": "INOVEA CONSEIL",
-        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "INOVEA CONSEIL",
-        "taille": "PME",
-        "entrep": "INOVEA CONSEIL",
-        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
-        "tel": "",
-        "esalink": "x",
-        "superpdp": ""
     },
     {
         "outil": "Dolibarr",
@@ -726,36 +556,6 @@
         "entrep": "<a href=\"https://b2b.jmlab.eu\" target=\"_blank\">JM SUD INFORMATIQUE</a>",
         "mail": "<a href=\"mailto:contact@jmlab.eu\">contact@jmlab.eu</a>",
         "tel": "<a href=\"tel:04 48 26 00 66\">04 48 26 00 66</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "OMRS",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
-        "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
-        "tel": "<a href=\"tel:07 69 54 06 04\">07 69 54 06 04</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "OMRS",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
-        "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
-        "tel": "<a href=\"tel:07 69 54 06 04\">07 69 54 06 04</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "OMRS",
-        "taille": "PME",
-        "entrep": "<a href=\"https://omrs.fr\" target=\"_blank\">OMRS</a>",
-        "mail": "<a href=\"mailto:olivier@omrs.fr\">olivier@omrs.fr</a>",
-        "tel": "<a href=\"tel:07 69 54 06 04\">07 69 54 06 04</a>",
         "esalink": "x",
         "superpdp": ""
     },
@@ -800,36 +600,6 @@
         "superpdp": "x"
     },
     {
-        "outil": "Dolibarr",
-        "nom": "NANAKA BUSINESS SOLUTIONS",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
-        "tel": "<a href=\"tel:02 63 12 00 37\">02 63 12 00 37</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "NANAKA BUSINESS SOLUTIONS",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
-        "tel": "<a href=\"tel:02 63 12 00 37\">02 63 12 00 37</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "NANAKA BUSINESS SOLUTIONS",
-        "taille": "PME",
-        "entrep": "<a href=\"https://www.nanaka.re\" target=\"_blank\">NANAKA BUSINESS SOLUTIONS</a>",
-        "mail": "<a href=\"mailto:frederic.beaugendre@nanaka.re\">frederic.beaugendre@nanaka.re</a>",
-        "tel": "<a href=\"tel:02 63 12 00 37\">02 63 12 00 37</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
         "outil": "Aucun",
         "nom": "WININFO",
         "taille": "TPE",
@@ -1101,46 +871,6 @@
     },
     {
         "outil": "Dolibarr",
-        "nom": "ATM CONSULTING",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
-        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
-        "tel": "<a href=\"tel:09 77 19 50 70\">09 77 19 50 70</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ATM CONSULTING",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
-        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
-        "tel": "<a href=\"tel:09 77 19 50 70\">09 77 19 50 70</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ATM CONSULTING",
-        "taille": "PME",
-        "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
-        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
-        "tel": "<a href=\"tel:09 77 19 50 70\">09 77 19 50 70</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ATM CONSULTING",
-        "taille": "ETI  GE",
-        "entrep": "<a href=\"https://www.atm-consulting.fr/\" target=\"_blank\">ATM CONSULTING</a>",
-        "mail": "<a href=\"mailto:contact@atm-consulting.fr\">contact@atm-consulting.fr</a>",
-        "tel": "<a href=\"tel:09 77 19 50 70\">09 77 19 50 70</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
         "nom": "SCOPEN",
         "taille": "TPE",
         "entrep": "<a href=\"https://www.scopen.fr\" target=\"_blank\">SCOPEN</a>",
@@ -1251,46 +981,6 @@
     },
     {
         "outil": "Dolibarr",
-        "nom": "ANETSYS",
-        "taille": "INDEPENDANT",
-        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
-        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
-        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ANETSYS",
-        "taille": "TPE",
-        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
-        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
-        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ANETSYS",
-        "taille": "PME",
-        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
-        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
-        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
-        "nom": "ANETSYS",
-        "taille": "ETI  GE",
-        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
-        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
-        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
-        "esalink": "x",
-        "superpdp": ""
-    },
-    {
-        "outil": "Dolibarr",
         "nom": "INFRAS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
@@ -1346,6 +1036,26 @@
         "entrep": "<a href=\"https://kataleya-france.com\" target=\"_blank\">PWT</a>",
         "mail": "<a href=\"mailto:cyril@pwt-france.com\">cyril@pwt-france.com</a>",
         "tel": "",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "LMCG CONSEIL",
+        "taille": "INDEPENDANT",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:06 72 09 85 58\">06 72 09 85 58</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "LMCG CONSEIL",
+        "taille": "TPE",
+        "entrep": "LMCG CONSEIL",
+        "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
+        "tel": "<a href=\"tel:06 72 09 85 58\">06 72 09 85 58</a>",
         "esalink": "x",
         "superpdp": ""
     }
