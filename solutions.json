@@ -1117,7 +1117,7 @@
         "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
         "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
         "esalink": "x",
-        "superpdp": ""
+        "superpdp": "x"
     },
     {
         "outil": "Dolibarr",
@@ -1127,7 +1127,7 @@
         "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
         "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
         "esalink": "x",
-        "superpdp": ""
+        "superpdp": "x"
     },
     {
         "outil": "Dolibarr",
@@ -1137,6 +1137,6 @@
         "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
         "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
         "esalink": "x",
-        "superpdp": ""
+        "superpdp": "x"
     }
 ]
