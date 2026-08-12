@@ -981,6 +981,36 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "MICRODATA",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://microdata.fr/\" target=\"_blank\">MICRODATA</a>",
+        "mail": "<a href=\"mailto:vassili@microdata.fr\">vassili@microdata.fr</a>",
+        "tel": "<a href=\"tel:03 87 98 36 07\">03 87 98 36 07</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "MICRODATA",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://microdata.fr/\" target=\"_blank\">MICRODATA</a>",
+        "mail": "<a href=\"mailto:vassili@microdata.fr\">vassili@microdata.fr</a>",
+        "tel": "<a href=\"tel:03 87 98 36 07\">03 87 98 36 07</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "MICRODATA",
+        "taille": "PME",
+        "entrep": "<a href=\"https://microdata.fr/\" target=\"_blank\">MICRODATA</a>",
+        "mail": "<a href=\"mailto:vassili@microdata.fr\">vassili@microdata.fr</a>",
+        "tel": "<a href=\"tel:03 87 98 36 07\">03 87 98 36 07</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
         "nom": "INFRAS",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
