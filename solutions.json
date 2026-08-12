@@ -1108,5 +1108,35 @@
         "tel": "<a href=\"tel:06 72 09 85 58\">06 72 09 85 58</a>",
         "esalink": "x",
         "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NSINFO",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://www.ns-info.fr\" target=\"_blank\">NSINFO</a>",
+        "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
+        "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NSINFO",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://www.ns-info.fr\" target=\"_blank\">NSINFO</a>",
+        "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
+        "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "NSINFO",
+        "taille": "PME",
+        "entrep": "<a href=\"https://www.ns-info.fr\" target=\"_blank\">NSINFO</a>",
+        "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
+        "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
+        "esalink": "x",
+        "superpdp": ""
     }
 ]
