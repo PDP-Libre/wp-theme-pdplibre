@@ -1041,6 +1041,26 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "I-Motion",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://i-faktur.eu\" target=\"_blank\">I-Motion</a>",
+        "mail": "<a href=\"mailto:ca+pdplibre@i-motion.fr\">ca+pdplibre@i-motion.fr</a>",
+        "tel": "<a href=\"tel:03 67 10 00 19\">03 67 10 00 19</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "BNB Solutions Digitales",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://bnb.re\" target=\"_blank\">BNB Solutions Digitales</a>",
+        "mail": "<a href=\"mailto:contact@bnb.re\">contact@bnb.re</a>",
+        "tel": "<a href=\"tel:02 62 31 26 07\">02 62 31 26 07</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
         "nom": "LMCG CONSEIL",
         "taille": "INDEPENDANT",
         "entrep": "LMCG CONSEIL",
