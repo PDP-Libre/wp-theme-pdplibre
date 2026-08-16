@@ -951,6 +951,46 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "ANETSYS",
+        "taille": "INDEPENDANT",
+        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "ANETSYS",
+        "taille": "TPE",
+        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "ANETSYS",
+        "taille": "PME",
+        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "ANETSYS",
+        "taille": "ETI  GE",
+        "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
+        "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
+        "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
+        "esalink": "x",
+        "superpdp": ""
+    },
+    {
+        "outil": "Dolibarr",
         "nom": "MICRODATA",
         "taille": "INDEPENDANT",
         "entrep": "<a href=\"https://microdata.fr/\" target=\"_blank\">MICRODATA</a>",
