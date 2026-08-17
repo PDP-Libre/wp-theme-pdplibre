@@ -501,6 +501,26 @@
     },
     {
         "outil": "Dolibarr",
+        "nom": "INOVEA CONSEIL",
+        "taille": "TPE",
+        "entrep": "INOVEA CONSEIL",
+        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": "x"
+    },
+    {
+        "outil": "Dolibarr",
+        "nom": "INOVEA CONSEIL",
+        "taille": "PME",
+        "entrep": "INOVEA CONSEIL",
+        "mail": "<a href=\"mailto:nicolas@inovea-conseil.com\">nicolas@inovea-conseil.com</a>",
+        "tel": "",
+        "esalink": "x",
+        "superpdp": "x"
+    },
+    {
+        "outil": "Dolibarr",
         "nom": "GAGZEN",
         "taille": "TPE",
         "entrep": "<a href=\"https://gagzen.net\" target=\"_blank\">GAGZEN</a>",
