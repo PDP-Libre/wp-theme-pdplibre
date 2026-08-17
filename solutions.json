@@ -2,7 +2,7 @@
     {
         "outil": "Dolibarr",
         "nom": "WEBELYS",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.webelys.com\" target=\"_blank\">WEBELYS</a>",
         "mail": "<a href=\"mailto:contact@webelys.com\">contact@webelys.com</a>",
         "tel": "",
@@ -72,7 +72,7 @@
     {
         "outil": "Aucun",
         "nom": "HELIUM TECHNOLOGIES",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://helium-technologies.com\" target=\"_blank\">HELIUM TECHNOLOGIES</a>",
         "mail": "<a href=\"mailto:laurent.longchamps@helium-technologies.com\">laurent.longchamps@helium-technologies.com</a>",
         "tel": "<a href=\"tel:05 90 86 01 55\">05 90 86 01 55</a>",
@@ -102,7 +102,7 @@
     {
         "outil": "Dolibarr",
         "nom": "NIIT SAS",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.niit.fr\" target=\"_blank\">NIIT SAS</a>",
         "mail": "<a href=\"mailto:rabah@niit.fr\">rabah@niit.fr</a>",
         "tel": "<a href=\"tel:06 19 81 63 29\">06 19 81 63 29</a>",
@@ -132,7 +132,7 @@
     {
         "outil": "Aucun",
         "nom": "Superindep",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.superindep.fr\" target=\"_blank\">Superindep</a>",
         "mail": "",
         "tel": "",
@@ -152,7 +152,7 @@
     {
         "outil": "Aucun",
         "nom": "BD2DB",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://factur-e.fr\" target=\"_blank\">BD2DB</a>",
         "mail": "<a href=\"mailto:staff@factur-e.fr\">staff@factur-e.fr</a>",
         "tel": "",
@@ -192,7 +192,7 @@
     {
         "outil": "Dolibarr",
         "nom": "WEEDOO Digital",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://weedoo.digital\" target=\"_blank\">WEEDOO Digital</a>",
         "mail": "<a href=\"mailto:tech@weedoo.digital\">tech@weedoo.digital</a>",
         "tel": "<a href=\"tel:04 28 77 00 16\">04 28 77 00 16</a>",
@@ -222,7 +222,7 @@
     {
         "outil": "Dolibarr",
         "nom": "LAVA RUN",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "LAVA RUN",
         "mail": "<a href=\"mailto:emmanuel.ramin@lavarun.re\">emmanuel.ramin@lavarun.re</a>",
         "tel": "<a href=\"tel:06 93 55 64 94\">06 93 55 64 94</a>",
@@ -242,7 +242,7 @@
     {
         "outil": "Dolibarr",
         "nom": "MONA",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "MONA",
         "mail": "<a href=\"mailto:contact@mona.re\">contact@mona.re</a>",
         "tel": "<a href=\"tel:06 12 17 49 92\">06 12 17 49 92</a>",
@@ -272,7 +272,7 @@
     {
         "outil": "Dolibarr",
         "nom": "LOZANGE IT",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://lozange.net\" target=\"_blank\">LOZANGE IT</a>",
         "mail": "<a href=\"mailto:guillaume.desnoues@lozange.net\">guillaume.desnoues@lozange.net</a>",
         "tel": "<a href=\"tel:04 79 68 59 90\">04 79 68 59 90</a>",
@@ -302,7 +302,7 @@
     {
         "outil": "Dolibarr",
         "nom": "COMAITE",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.comaite.com\" target=\"_blank\">COMAITE</a>",
         "mail": "<a href=\"mailto:marc.serra@comaite.com\">marc.serra@comaite.com</a>",
         "tel": "<a href=\"tel:04 84 51 21 04\">04 84 51 21 04</a>",
@@ -332,7 +332,7 @@
     {
         "outil": "Aucun",
         "nom": "WEMAY",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "WEMAY",
         "mail": "<a href=\"mailto:donald@sottin.fr\">donald@sottin.fr</a>",
         "tel": "",
@@ -362,7 +362,7 @@
     {
         "outil": "Dolibarr",
         "nom": "PASCAL BAZZEA",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://pba-solutions.fr\" target=\"_blank\">PASCAL BAZZEA</a>",
         "mail": "<a href=\"mailto:pascal@bazzea.fr\">pascal@bazzea.fr</a>",
         "tel": "",
@@ -392,7 +392,7 @@
     {
         "outil": "Dolibarr",
         "nom": "PRAGMA-TECH",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.pragma-tech.fr\" target=\"_blank\">PRAGMA-TECH</a>",
         "mail": "<a href=\"mailto:nicolas@pragma-tech.fr\">nicolas@pragma-tech.fr</a>",
         "tel": "<a href=\"tel:06 82 95 20 81\">06 82 95 20 81</a>",
@@ -442,7 +442,7 @@
     {
         "outil": "Dolibarr",
         "nom": "PRESTALIDAIRE",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.prestalidaire.com\" target=\"_blank\">PRESTALIDAIRE</a>",
         "mail": "<a href=\"mailto:info@prestalidaire.com\">info@prestalidaire.com</a>",
         "tel": "<a href=\"tel:03 39 27 02 57\">03 39 27 02 57</a>",
@@ -472,7 +472,7 @@
     {
         "outil": "Aucun",
         "nom": "ACTIUM SI",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.actium-si.com\" target=\"_blank\">ACTIUM SI</a>",
         "mail": "<a href=\"mailto:pdplibre@actium-si.com\">pdplibre@actium-si.com</a>",
         "tel": "<a href=\"tel:02 53 35 81 37\">02 53 35 81 37</a>",
@@ -562,7 +562,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ÈRE ÉTHIQUE",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://ereethique.fr/facturation-electronique/\" target=\"_blank\">ÈRE ÉTHIQUE</a>",
         "mail": "<a href=\"mailto:courriel@ereethique.fr\">courriel@ereethique.fr</a>",
         "tel": "<a href=\"tel:04 58 22 00 66\">04 58 22 00 66</a>",
@@ -612,7 +612,7 @@
     {
         "outil": "Dolibarr",
         "nom": "EPOK",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://epok.one\" target=\"_blank\">EPOK</a>",
         "mail": "<a href=\"mailto:e.lesage@epok.one\">e.lesage@epok.one</a>",
         "tel": "<a href=\"tel:04 76 13 27 80\">04 76 13 27 80</a>",
@@ -642,7 +642,7 @@
     {
         "outil": "Dolibarr",
         "nom": "PTMSoft",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.ptmsoft.fr\" target=\"_blank\">PTMSoft</a>",
         "mail": "<a href=\"mailto:marc.baur@ptmsoft.fr\">marc.baur@ptmsoft.fr</a>",
         "tel": "<a href=\"tel:09 80 08 31 53\">09 80 08 31 53</a>",
@@ -662,7 +662,7 @@
     {
         "outil": "Dolibarr",
         "nom": "SOLAUV",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://solauv.fr\" target=\"_blank\">SOLAUV</a>",
         "mail": "<a href=\"mailto:alexandre.philis@ebi43.fr\">alexandre.philis@ebi43.fr</a>",
         "tel": "<a href=\"tel:04 71 50 13 01\">04 71 50 13 01</a>",
@@ -712,7 +712,7 @@
     {
         "outil": "Dolibarr",
         "nom": "LMCG CONSEIL",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "LMCG CONSEIL",
         "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
         "tel": "<a href=\"tel:06 72 09 85 58\">06 72 09 85 58</a>",
@@ -772,7 +772,7 @@
     {
         "outil": "Dolibarr",
         "nom": "EZYTECH",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.ezytech.fr\" target=\"_blank\">EZYTECH</a>",
         "mail": "<a href=\"mailto:antoine@ezytech.fr\">antoine@ezytech.fr</a>",
         "tel": "<a href=\"tel:03 20 88 63 23\">03 20 88 63 23</a>",
@@ -802,7 +802,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ANDRASOFT",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "ANDRASOFT",
         "mail": "<a href=\"mailto:cfaure@andrasoft.info\">cfaure@andrasoft.info</a>",
         "tel": "<a href=\"tel:04 90 91 19 08\">04 90 91 19 08</a>",
@@ -852,7 +852,7 @@
     {
         "outil": "Dolibarr",
         "nom": "OPEN-DSI",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.opendsi.fr/\" target=\"_blank\">OPEN-DSI</a>",
         "mail": "<a href=\"mailto:info@opendsi.fr\">info@opendsi.fr</a>",
         "tel": "<a href=\"tel:04 82 53 94 76\">04 82 53 94 76</a>",
@@ -882,7 +882,7 @@
     {
         "outil": "Dolibarr",
         "nom": "SCOPEN",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.scopen.fr\" target=\"_blank\">SCOPEN</a>",
         "mail": "<a href=\"mailto:contact@scopen.fr\">contact@scopen.fr</a>",
         "tel": "<a href=\"tel:09 78 08 22 99\">09 78 08 22 99</a>",
@@ -892,7 +892,7 @@
     {
         "outil": "Aucun",
         "nom": "WEBLUMA",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
         "tel": "<a href=\"tel:02 57 63 06 03\">02 57 63 06 03</a>",
@@ -922,7 +922,7 @@
     {
         "outil": "Aucun",
         "nom": "WEBLUMA",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.webluma.com\" target=\"_blank\">WEBLUMA</a>",
         "mail": "<a href=\"mailto:nicolas.plassart@webluma.com\">nicolas.plassart@webluma.com</a>",
         "tel": "<a href=\"tel:02 57 63 06 03\">02 57 63 06 03</a>",
@@ -932,7 +932,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ALTAIRIS",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
         "tel": "<a href=\"tel:09 54 98 23 39\">09 54 98 23 39</a>",
@@ -962,7 +962,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ALTAIRIS",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.altairis.fr\" target=\"_blank\">ALTAIRIS</a>",
         "mail": "<a href=\"mailto:agnes.rambaud@altairis.fr\">agnes.rambaud@altairis.fr</a>",
         "tel": "<a href=\"tel:09 54 98 23 39\">09 54 98 23 39</a>",
@@ -972,7 +972,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ANETSYS",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
         "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
@@ -1002,7 +1002,7 @@
     {
         "outil": "Dolibarr",
         "nom": "ANETSYS",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://anetsys.com\" target=\"_blank\">ANETSYS</a>",
         "mail": "<a href=\"mailto:support@anetsys.com\">support@anetsys.com</a>",
         "tel": "<a href=\"tel:03 74 47 58 59\">03 74 47 58 59</a>",
@@ -1012,7 +1012,7 @@
     {
         "outil": "Dolibarr",
         "nom": "MICRODATA",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://microdata.fr/\" target=\"_blank\">MICRODATA</a>",
         "mail": "<a href=\"mailto:vassili@microdata.fr\">vassili@microdata.fr</a>",
         "tel": "<a href=\"tel:03 87 98 36 07\">03 87 98 36 07</a>",
@@ -1042,7 +1042,7 @@
     {
         "outil": "Dolibarr",
         "nom": "INFRAS",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://infras.fr\" target=\"_blank\">INFRAS</a>",
         "mail": "<a href=\"mailto:sylvain.legrand@infras.fr\">sylvain.legrand@infras.fr</a>",
         "tel": "<a href=\"tel:04 58 21 00 01\">04 58 21 00 01</a>",
@@ -1092,7 +1092,7 @@
     {
         "outil": "Dolibarr",
         "nom": "PWT",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://kataleya-france.com\" target=\"_blank\">PWT</a>",
         "mail": "<a href=\"mailto:cyril@pwt-france.com\">cyril@pwt-france.com</a>",
         "tel": "",
@@ -1122,7 +1122,7 @@
     {
         "outil": "Dolibarr",
         "nom": "LMCG CONSEIL",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "LMCG CONSEIL",
         "mail": "<a href=\"mailto:cgrancoing@gmail.com\">cgrancoing@gmail.com</a>",
         "tel": "<a href=\"tel:06 72 09 85 58\">06 72 09 85 58</a>",
@@ -1142,7 +1142,7 @@
     {
         "outil": "Dolibarr",
         "nom": "NSINFO",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.ns-info.fr\" target=\"_blank\">NSINFO</a>",
         "mail": "<a href=\"mailto:contact@ns-info.fr\">contact@ns-info.fr</a>",
         "tel": "<a href=\"tel:03 70 99 97 30\">03 70 99 97 30</a>",
@@ -1192,7 +1192,7 @@
     {
         "outil": "Dolibarr",
         "nom": "FORLEAD",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.forlead.fr\" target=\"_blank\">FORLEAD</a>",
         "mail": "<a href=\"mailto:contact@forlead.fr\">contact@forlead.fr</a>",
         "tel": "<a href=\"tel:07 66 66 17 97\">07 66 66 17 97</a>",
@@ -1202,7 +1202,7 @@
     {
         "outil": "Aucun",
         "nom": "ACSYSCA",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://acsysca.fr\" target=\"_blank\">ACSYSCA</a>",
         "mail": "<a href=\"mailto:contact@acsysca.fr\">contact@acsysca.fr</a>",
         "tel": "<a href=\"tel:04 80 80 66 60\">04 80 80 66 60</a>",
@@ -1232,7 +1232,7 @@
     {
         "outil": "Aucun",
         "nom": "ACSYSCA",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://acsysca.fr\" target=\"_blank\">ACSYSCA</a>",
         "mail": "<a href=\"mailto:contact@acsysca.fr\">contact@acsysca.fr</a>",
         "tel": "<a href=\"tel:04 80 80 66 60\">04 80 80 66 60</a>",
@@ -1242,7 +1242,7 @@
     {
         "outil": "Dolibarr",
         "nom": "IOUSTON informatique",
-        "taille": "INDEPENDANT",
+        "taille": "Micro",
         "entrep": "<a href=\"https://www.iouston.com\" target=\"_blank\">IOUSTON informatique</a>",
         "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
         "tel": "<a href=\"tel:06 74 83 52 28\">06 74 83 52 28</a>",
@@ -1272,7 +1272,7 @@
     {
         "outil": "Dolibarr",
         "nom": "IOUSTON informatique",
-        "taille": "ETI  GE",
+        "taille": "ETI-GE",
         "entrep": "<a href=\"https://www.iouston.com\" target=\"_blank\">IOUSTON informatique</a>",
         "mail": "<a href=\"mailto:julien.marchand@iouston.com\">julien.marchand@iouston.com</a>",
         "tel": "<a href=\"tel:06 74 83 52 28\">06 74 83 52 28</a>",
